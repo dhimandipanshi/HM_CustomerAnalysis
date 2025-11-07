@@ -1,0 +1,1001 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Size,Color,Season,Review Rating,Subscription Status,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Frequency of Purchases
+HM000001,62,Female,Cardigan,Clothing,33.93,Houston,M,Olive,Fall,3.8,Yes,Standard,20%,SUMMER20,4,Debit Card,Annually
+HM000002,19,Male,Puffer Jacket,Outerwear,108.50,Atlanta,L,Yellow,Fall,4.0,Yes,Store Pickup,None,None,18,Debit Card,Bi-weekly
+HM000003,56,Male,Scarf,Accessories,25.80,San Jose,One Size,Black,Summer,1.1,No,Next Day,None,None,8,Credit Card,Quarterly
+HM000004,33,Male,Trench Coat,Outerwear,80.24,New York,XS,Blue,Summer,4.8,Yes,Express,None,None,7,Debit Card,Quarterly
+HM000005,24,Male,Denim Jacket,Outerwear,131.39,Detroit,XS,Green,Fall,4.6,No,Store Pickup,None,None,9,Gift Card,Quarterly
+HM000006,19,Female,Heels,Footwear,79.82,Phoenix,M,Brown,Spring,2.6,No,Store Pickup,15%,MEMBER25,11,Klarna,Monthly
+HM000007,27,Male,Chinos,Clothing,52.53,New York,XXL,Black,Fall,3.2,Yes,Standard,None,None,23,Credit Card,Weekly
+HM000008,56,Female,Skirt,Clothing,39.42,Denver,S,Blue,Spring,4.6,Yes,Standard,30%,SAVE30,3,Debit Card,Annually
+HM000009,35,Male,Parka,Outerwear,60.45,Philadelphia,L,Brown,Spring,1.9,Yes,Store Pickup,None,None,2,Apple Pay,Annually
+HM000010,22,Female,Leggings,Clothing,60.03,Detroit,S,Olive,Winter,3.1,No,Next Day,10%,MEMBER25,13,PayPal,Monthly
+HM000011,31,Female,Trench Coat,Outerwear,96.43,Miami,XS,Cream,Fall,4.6,No,Store Pickup,None,None,5,Gift Card,Quarterly
+HM000012,20,Male,Puffer Jacket,Outerwear,91.53,Miami,XXL,Pink,Summer,4.8,No,Standard,None,None,9,PayPal,Quarterly
+HM000013,67,Male,Dress,Clothing,46.07,Philadelphia,XL,Black,Fall,4.2,Yes,Standard,None,None,24,Credit Card,Weekly
+HM000014,28,Female,Puffer Jacket,Outerwear,53.73,New York,S,Navy,Summer,4.5,No,Standard,25%,SUMMER20,7,PayPal,Quarterly
+HM000015,46,Female,Puffer Jacket,Outerwear,78.08,New York,XS,Burgundy,Fall,4.1,No,Standard,20%,STUDENT10,7,Credit Card,Quarterly
+HM000016,28,Male,Trench Coat,Outerwear,172.95,Portland,L,Pink,Fall,3.2,Yes,Store Pickup,None,None,7,Debit Card,Quarterly
+HM000017,26,Male,Boots,Footwear,67.60,Phoenix,XXL,Navy,Summer,4.5,Yes,Express,None,None,8,Debit Card,Quarterly
+HM000018,66,Female,Bomber Jacket,Outerwear,130.13,Los Angeles,XL,Burgundy,Winter,4.6,No,Standard,15%,NEWYEAR15,11,Google Pay,Monthly
+HM000019,41,Female,Parka,Outerwear,175.14,San Jose,M,Black,Winter,4.9,No,Standard,None,None,0,Debit Card,Rarely
+HM000020,38,Male,Hoodie,Clothing,30.48,Las Vegas,L,Olive,Spring,4.2,No,Express,15%,NEWYEAR15,9,Gift Card,Quarterly
+HM000021,32,Male,Hoodie,Clothing,18.36,San Antonio,XL,Brown,Winter,3.0,No,Express,30%,FLASH25,3,Klarna,Annually
+HM000022,44,Male,Boots,Footwear,46.29,Los Angeles,L,Beige,Fall,4.8,No,Standard,15%,FLASH25,12,Klarna,Monthly
+HM000023,62,Male,Heels,Footwear,82.62,Phoenix,L,Pink,Spring,3.1,No,Store Pickup,None,None,4,Klarna,Annually
+HM000024,28,Female,Bomber Jacket,Outerwear,131.28,Houston,XXL,Cream,Spring,3.0,Yes,Store Pickup,None,None,24,Credit Card,Weekly
+HM000025,54,Male,Boots,Footwear,49.75,Denver,S,Green,Spring,4.3,No,Express,30%,SAVE30,0,PayPal,Rarely
+HM000026,34,Male,Joggers,Clothing,34.34,New York,S,Navy,Winter,3.9,No,Next Day,10%,NEWYEAR15,6,Klarna,Quarterly
+HM000027,22,Female,Bomber Jacket,Outerwear,70.65,Los Angeles,XS,Gray,Summer,4.1,No,Store Pickup,20%,FALL15,11,Debit Card,Monthly
+HM000028,38,Male,Scarf,Accessories,32.99,Portland,One Size,Navy,Winter,4.5,Yes,Store Pickup,20%,FALL15,17,Debit Card,Bi-weekly
+HM000029,28,Female,Watch,Accessories,32.24,New York,One Size,Cream,Fall,4.4,Yes,Store Pickup,30%,FLASH25,1,PayPal,Rarely
+HM000030,49,Male,Dress Shirt,Clothing,45.71,Dallas,L,Blue,Spring,4.6,Yes,Standard,30%,WELCOME10,15,Google Pay,Bi-weekly
+HM000031,18,Male,Denim Jacket,Outerwear,140.76,Phoenix,S,Brown,Winter,4.9,Yes,Store Pickup,20%,FALL15,10,PayPal,Monthly
+HM000032,43,Female,Skirt,Clothing,34.41,San Diego,XS,Purple,Summer,3.4,Yes,Next Day,None,None,20,Debit Card,Weekly
+HM000033,37,Female,Belt,Accessories,15.34,Detroit,One Size,Red,Fall,4.9,Yes,Standard,30%,MEMBER25,1,Klarna,Rarely
+HM000034,66,Male,Winter Coat,Outerwear,110.64,Seattle,S,Beige,Spring,4.4,Yes,Express,10%,NEWYEAR15,16,Apple Pay,Bi-weekly
+HM000035,40,Female,Bomber Jacket,Outerwear,78.12,Boston,XL,Pink,Summer,3.6,No,Express,25%,MEMBER25,3,Credit Card,Annually
+HM000036,54,Male,Wallet,Accessories,10.42,Las Vegas,One Size,Olive,Winter,5.0,No,Express,30%,SUMMER20,4,Google Pay,Annually
+HM000037,57,Female,Polo Shirt,Clothing,25.42,Portland,M,Cream,Spring,4.2,Yes,Standard,15%,FREESHIP,2,Credit Card,Annually
+HM000038,50,Female,Sandals,Footwear,45.57,Los Angeles,XXL,Green,Spring,4.2,No,Next Day,None,None,4,Debit Card,Annually
+HM000039,63,Male,Flats,Footwear,56.56,San Jose,S,Blue,Fall,4.0,No,Store Pickup,10%,MEMBER25,12,Gift Card,Monthly
+HM000040,67,Female,Joggers,Clothing,47.51,Las Vegas,L,Beige,Fall,3.1,No,Express,None,None,6,Credit Card,Quarterly
+HM000041,40,Male,Hoodie,Clothing,11.80,Detroit,S,Yellow,Summer,3.2,Yes,Standard,25%,SUMMER20,17,Klarna,Bi-weekly
+HM000042,43,Male,Hoodie,Clothing,23.57,Jacksonville,XS,Black,Spring,4.6,No,Standard,15%,FALL15,1,Apple Pay,Rarely
+HM000043,33,Female,Scarf,Accessories,27.80,Philadelphia,One Size,Green,Winter,3.8,Yes,Express,15%,STUDENT10,11,Klarna,Monthly
+HM000044,48,Female,Jewelry,Accessories,38.53,Boston,One Size,Burgundy,Winter,4.8,Yes,Standard,10%,SAVE30,5,PayPal,Quarterly
+HM000045,35,Female,Tank Top,Clothing,20.33,Miami,M,Brown,Winter,4.4,Yes,Express,None,None,17,PayPal,Bi-weekly
+HM000046,39,Male,Polo Shirt,Clothing,48.58,Boston,M,Beige,Summer,3.9,Yes,Standard,30%,FALL15,0,Apple Pay,Rarely
+HM000047,55,Female,Parka,Outerwear,131.72,Boston,S,Cream,Winter,4.6,No,Store Pickup,None,None,9,Credit Card,Quarterly
+HM000048,29,Female,Sunglasses,Accessories,9.16,Austin,One Size,Gray,Winter,3.5,Yes,Store Pickup,25%,SAVE30,3,PayPal,Annually
+HM000049,27,Male,Puffer Jacket,Outerwear,92.71,Phoenix,XXL,Yellow,Winter,3.3,Yes,Store Pickup,10%,MEMBER25,12,Gift Card,Monthly
+HM000050,55,Male,Sweater,Clothing,13.51,San Diego,S,Brown,Summer,4.1,No,Standard,30%,STUDENT10,13,PayPal,Monthly
+HM000051,54,Male,Parka,Outerwear,82.62,Houston,XS,Red,Spring,4.5,No,Next Day,None,None,7,PayPal,Quarterly
+HM000052,45,Female,Backpack,Accessories,24.13,Austin,One Size,Navy,Fall,3.8,Yes,Standard,None,None,12,Gift Card,Monthly
+HM000053,46,Male,Boots,Footwear,43.41,Austin,XL,Black,Spring,4.7,Yes,Express,25%,MEMBER25,15,Google Pay,Bi-weekly
+HM000054,67,Female,Loafers,Footwear,64.58,San Antonio,XL,Cream,Winter,3.6,Yes,Standard,10%,SAVE30,21,Klarna,Weekly
+HM000055,24,Male,Blazer,Clothing,26.95,Portland,M,Black,Summer,3.3,Yes,Store Pickup,None,None,8,Google Pay,Quarterly
+HM000056,40,Male,Skirt,Clothing,29.92,Los Angeles,L,Blue,Fall,3.8,Yes,Store Pickup,25%,SAVE30,7,Google Pay,Quarterly
+HM000057,63,Male,Sandals,Footwear,92.73,Seattle,S,White,Fall,3.9,Yes,Standard,20%,MEMBER25,21,Credit Card,Weekly
+HM000058,26,Female,Blazer,Clothing,65.98,San Diego,S,Black,Summer,1.5,No,Next Day,None,None,6,PayPal,Quarterly
+HM000059,49,Female,Sneakers,Footwear,46.19,San Antonio,XS,Blue,Winter,4.1,No,Express,None,None,10,Apple Pay,Monthly
+HM000060,43,Female,Wallet,Accessories,29.56,Phoenix,One Size,Black,Summer,4.2,Yes,Express,15%,WELCOME10,1,Klarna,Rarely
+HM000061,28,Male,Jeans,Clothing,73.90,New York,XL,Gray,Fall,4.3,No,Standard,None,None,7,Klarna,Quarterly
+HM000062,28,Female,Winter Coat,Outerwear,146.14,San Diego,S,Red,Fall,3.0,No,Store Pickup,10%,WELCOME10,5,Google Pay,Quarterly
+HM000063,30,Female,Winter Coat,Outerwear,131.40,Detroit,S,Olive,Winter,1.8,Yes,Store Pickup,20%,SAVE30,11,Klarna,Monthly
+HM000064,25,Male,Sweater,Clothing,43.49,New York,XL,Pink,Winter,3.4,No,Standard,None,None,14,Gift Card,Monthly
+HM000065,35,Female,Puffer Jacket,Outerwear,114.02,Austin,L,Olive,Spring,3.2,No,Express,10%,FLASH25,1,Klarna,Rarely
+HM000066,41,Male,Wallet,Accessories,43.15,Denver,One Size,Beige,Winter,3.7,No,Next Day,None,None,9,Google Pay,Quarterly
+HM000067,35,Female,Bomber Jacket,Outerwear,77.18,Denver,M,Blue,Spring,3.2,Yes,Next Day,20%,SAVE30,17,Gift Card,Bi-weekly
+HM000068,53,Female,Belt,Accessories,11.07,Los Angeles,One Size,Red,Summer,4.3,No,Next Day,None,None,14,Klarna,Monthly
+HM000069,57,Male,Hat,Accessories,30.42,San Jose,One Size,Yellow,Spring,3.1,No,Next Day,None,None,4,Google Pay,Annually
+HM000070,56,Female,Winter Coat,Outerwear,168.56,Chicago,XL,Pink,Winter,4.5,No,Store Pickup,None,None,2,Google Pay,Annually
+HM000071,18,Male,Sunglasses,Accessories,20.98,Portland,One Size,Burgundy,Spring,2.2,No,Next Day,25%,STUDENT10,13,Klarna,Monthly
+HM000072,33,Male,Denim Jacket,Outerwear,104.76,Houston,S,Yellow,Spring,3.7,No,Standard,20%,NEWYEAR15,12,Klarna,Monthly
+HM000073,33,Female,Loafers,Footwear,75.29,Austin,XL,Pink,Spring,2.8,No,Express,None,None,13,Credit Card,Monthly
+HM000074,20,Female,Coat,Clothing,46.86,Austin,S,Yellow,Fall,4.2,No,Standard,30%,MEMBER25,5,Google Pay,Quarterly
+HM000075,46,Male,Joggers,Clothing,51.22,Atlanta,L,Gray,Fall,2.6,No,Store Pickup,30%,STUDENT10,10,Credit Card,Monthly
+HM000076,33,Female,Winter Coat,Outerwear,124.10,Portland,M,Yellow,Fall,3.9,No,Next Day,None,None,0,Credit Card,Rarely
+HM000077,22,Female,Cardigan,Clothing,14.31,San Diego,L,Beige,Spring,3.4,No,Standard,20%,MEMBER25,1,Klarna,Rarely
+HM000078,47,Female,Sandals,Footwear,98.81,Jacksonville,S,Pink,Fall,4.8,Yes,Next Day,None,None,13,Apple Pay,Monthly
+HM000079,48,Female,Basic T-Shirt,Clothing,13.54,Detroit,XL,Brown,Summer,3.1,Yes,Next Day,25%,SAVE30,4,Google Pay,Annually
+HM000080,51,Male,Running Shoes,Footwear,63.00,Miami,L,Blue,Spring,4.3,Yes,Store Pickup,25%,WELCOME10,15,Google Pay,Bi-weekly
+HM000081,67,Male,Sneakers,Footwear,119.45,Portland,L,Gray,Fall,4.8,Yes,Store Pickup,None,None,17,Credit Card,Bi-weekly
+HM000082,24,Male,Basic T-Shirt,Clothing,42.58,Atlanta,S,Burgundy,Fall,3.8,No,Standard,None,None,12,PayPal,Monthly
+HM000083,45,Female,Denim Jacket,Outerwear,120.01,Atlanta,L,Green,Fall,3.4,Yes,Store Pickup,15%,WELCOME10,9,Apple Pay,Quarterly
+HM000084,56,Female,Denim Jacket,Outerwear,171.49,San Jose,L,Blue,Spring,3.2,No,Standard,None,None,1,Gift Card,Rarely
+HM000085,50,Female,Backpack,Accessories,13.76,Houston,One Size,Cream,Summer,3.3,No,Store Pickup,10%,FLASH25,13,Credit Card,Monthly
+HM000086,22,Male,Parka,Outerwear,106.66,Jacksonville,XXL,Green,Fall,4.9,Yes,Next Day,25%,FALL15,12,Credit Card,Monthly
+HM000087,51,Female,Boots,Footwear,83.70,Chicago,XS,Cream,Fall,1.5,Yes,Next Day,None,None,23,Credit Card,Weekly
+HM000088,29,Female,Hoodie,Clothing,24.03,New York,XL,Cream,Summer,2.8,No,Store Pickup,10%,MEMBER25,9,Apple Pay,Quarterly
+HM000089,42,Female,Winter Coat,Outerwear,87.79,New York,S,Burgundy,Fall,4.7,Yes,Store Pickup,15%,WELCOME10,4,Gift Card,Annually
+HM000090,28,Female,Flats,Footwear,85.73,San Antonio,XL,Black,Summer,4.6,Yes,Store Pickup,None,None,8,PayPal,Quarterly
+HM000091,63,Male,Leggings,Clothing,54.91,Los Angeles,M,Olive,Fall,3.8,No,Standard,15%,NEWYEAR15,5,Klarna,Quarterly
+HM000092,60,Female,Backpack,Accessories,25.67,New York,One Size,White,Winter,3.6,Yes,Standard,None,None,22,Apple Pay,Weekly
+HM000093,67,Male,Puffer Jacket,Outerwear,116.13,Denver,XL,Red,Winter,3.3,No,Next Day,15%,FREESHIP,4,PayPal,Annually
+HM000094,21,Female,Skirt,Clothing,55.87,Los Angeles,XL,Burgundy,Fall,3.6,Yes,Next Day,None,None,15,Debit Card,Bi-weekly
+HM000095,28,Male,Dress,Clothing,42.92,Philadelphia,L,Blue,Fall,4.9,No,Standard,30%,FREESHIP,0,Gift Card,Rarely
+HM000096,51,Male,Puffer Jacket,Outerwear,124.98,Las Vegas,XL,Brown,Summer,4.7,No,Next Day,30%,FREESHIP,2,Gift Card,Annually
+HM000097,21,Male,Dress,Clothing,37.01,Houston,L,Purple,Winter,3.1,No,Next Day,None,None,14,Google Pay,Monthly
+HM000098,40,Male,Joggers,Clothing,68.73,San Diego,XL,Red,Spring,3.5,Yes,Standard,None,None,16,PayPal,Bi-weekly
+HM000099,57,Female,Loafers,Footwear,83.88,San Antonio,XXL,Red,Spring,4.4,Yes,Store Pickup,None,None,0,Google Pay,Rarely
+HM000100,51,Male,Trench Coat,Outerwear,118.75,Jacksonville,S,Navy,Winter,3.4,No,Express,25%,SUMMER20,12,PayPal,Monthly
+HM000101,41,Male,Loafers,Footwear,53.41,Chicago,S,Cream,Summer,4.0,No,Store Pickup,20%,FREESHIP,5,Credit Card,Quarterly
+HM000102,20,Female,Trench Coat,Outerwear,121.50,San Antonio,S,Navy,Fall,2.9,No,Express,None,None,6,Apple Pay,Quarterly
+HM000103,63,Male,Chinos,Clothing,26.38,Boston,M,Purple,Fall,3.1,Yes,Next Day,25%,WELCOME10,21,Gift Card,Weekly
+HM000104,56,Male,Watch,Accessories,29.26,Portland,One Size,Purple,Spring,2.8,No,Next Day,30%,FALL15,5,Apple Pay,Quarterly
+HM000105,25,Female,Denim Jacket,Outerwear,71.60,Detroit,L,Yellow,Spring,4.1,No,Express,None,None,1,Apple Pay,Rarely
+HM000106,22,Female,Belt,Accessories,15.68,Los Angeles,One Size,Pink,Winter,4.8,Yes,Store Pickup,None,None,2,Klarna,Annually
+HM000107,53,Female,Backpack,Accessories,15.15,Philadelphia,One Size,Burgundy,Winter,4.0,No,Express,None,None,9,PayPal,Quarterly
+HM000108,66,Male,Sunglasses,Accessories,31.67,Los Angeles,One Size,Burgundy,Spring,4.5,No,Express,20%,STUDENT10,9,PayPal,Quarterly
+HM000109,29,Female,Blazer,Clothing,26.27,Los Angeles,XXL,Blue,Summer,3.4,Yes,Next Day,25%,MEMBER25,22,Apple Pay,Weekly
+HM000110,28,Female,Wallet,Accessories,13.55,Los Angeles,One Size,Pink,Summer,3.7,Yes,Standard,15%,FREESHIP,12,PayPal,Monthly
+HM000111,56,Male,Basic T-Shirt,Clothing,29.87,Dallas,XL,Green,Spring,3.9,No,Standard,15%,WELCOME10,8,PayPal,Quarterly
+HM000112,41,Female,Watch,Accessories,27.58,Houston,One Size,Black,Summer,3.8,No,Store Pickup,10%,FLASH25,11,Credit Card,Monthly
+HM000113,28,Male,Jeans,Clothing,23.37,Las Vegas,L,Cream,Fall,3.6,No,Next Day,10%,FREESHIP,10,Credit Card,Monthly
+HM000114,41,Male,Watch,Accessories,45.71,Chicago,One Size,Pink,Fall,3.3,Yes,Standard,None,None,8,Apple Pay,Quarterly
+HM000115,37,Female,Bomber Jacket,Outerwear,59.77,Jacksonville,S,Navy,Spring,5.0,Yes,Store Pickup,25%,SAVE30,11,Credit Card,Monthly
+HM000116,57,Male,Dress Shirt,Clothing,38.50,Seattle,L,Black,Summer,4.3,No,Store Pickup,None,None,14,Klarna,Monthly
+HM000117,65,Male,Parka,Outerwear,56.69,Phoenix,XS,Burgundy,Spring,3.3,No,Express,20%,STUDENT10,2,PayPal,Annually
+HM000118,20,Male,Loafers,Footwear,39.24,San Antonio,S,Olive,Fall,2.6,Yes,Standard,30%,SUMMER20,2,Credit Card,Annually
+HM000119,59,Female,Sunglasses,Accessories,19.22,Los Angeles,One Size,White,Fall,3.3,Yes,Express,20%,MEMBER25,16,Debit Card,Bi-weekly
+HM000120,58,Male,Sneakers,Footwear,44.89,Atlanta,S,Navy,Fall,3.9,No,Express,None,None,3,Credit Card,Annually
+HM000121,55,Female,Belt,Accessories,15.97,New York,One Size,Beige,Summer,5.0,No,Store Pickup,25%,FLASH25,10,PayPal,Monthly
+HM000122,41,Female,Winter Coat,Outerwear,66.31,Phoenix,L,Beige,Fall,1.2,No,Standard,25%,FREESHIP,3,Gift Card,Annually
+HM000123,26,Female,Sandals,Footwear,41.62,Portland,M,Red,Winter,4.5,Yes,Next Day,None,None,22,Credit Card,Weekly
+HM000124,49,Male,Belt,Accessories,9.70,Philadelphia,One Size,Brown,Fall,3.1,No,Next Day,10%,FLASH25,6,Credit Card,Quarterly
+HM000125,43,Female,Trench Coat,Outerwear,106.55,Boston,M,White,Fall,4.1,Yes,Store Pickup,30%,FALL15,2,Debit Card,Annually
+HM000126,63,Female,Trench Coat,Outerwear,168.92,Las Vegas,XS,Blue,Fall,3.9,No,Next Day,None,None,1,Klarna,Rarely
+HM000127,37,Male,Sweater,Clothing,36.56,Denver,XXL,Black,Summer,3.6,No,Express,20%,FREESHIP,10,Klarna,Monthly
+HM000128,20,Male,Trench Coat,Outerwear,171.86,San Diego,XS,Burgundy,Spring,3.4,Yes,Next Day,None,None,0,Credit Card,Rarely
+HM000129,27,Male,Dress,Clothing,61.09,Boston,XL,Cream,Winter,3.4,Yes,Store Pickup,None,None,8,Gift Card,Quarterly
+HM000130,53,Female,Tank Top,Clothing,61.37,San Antonio,L,Black,Fall,3.7,No,Standard,10%,FLASH25,10,Gift Card,Monthly
+HM000131,49,Female,Running Shoes,Footwear,91.55,Seattle,L,Purple,Spring,3.5,No,Next Day,None,None,3,Credit Card,Annually
+HM000132,54,Male,Puffer Jacket,Outerwear,97.69,Phoenix,S,Green,Winter,4.8,Yes,Next Day,20%,FREESHIP,3,Credit Card,Annually
+HM000133,44,Female,Boots,Footwear,97.12,Chicago,XL,Navy,Summer,3.6,No,Standard,10%,FALL15,5,Apple Pay,Quarterly
+HM000134,60,Male,Bomber Jacket,Outerwear,134.61,San Diego,XXL,White,Summer,4.5,No,Express,20%,MEMBER25,7,PayPal,Quarterly
+HM000135,64,Male,Chinos,Clothing,32.51,Denver,M,Navy,Fall,4.0,No,Standard,20%,STUDENT10,7,Debit Card,Quarterly
+HM000136,65,Male,Ankle Boots,Footwear,46.55,Phoenix,M,Pink,Fall,4.6,No,Express,10%,FALL15,7,PayPal,Quarterly
+HM000137,30,Male,Denim Jacket,Outerwear,71.23,Portland,XS,Cream,Summer,1.0,No,Store Pickup,30%,MEMBER25,13,Google Pay,Monthly
+HM000138,32,Female,Heels,Footwear,42.94,San Antonio,XL,Pink,Winter,1.9,No,Next Day,30%,WELCOME10,11,Google Pay,Monthly
+HM000139,23,Female,Sandals,Footwear,62.54,Phoenix,XXL,Purple,Summer,3.8,Yes,Next Day,20%,NEWYEAR15,24,Credit Card,Weekly
+HM000140,43,Male,Trench Coat,Outerwear,114.22,Portland,XL,Cream,Winter,4.6,Yes,Store Pickup,25%,WELCOME10,4,Credit Card,Annually
+HM000141,45,Male,Belt,Accessories,12.93,Los Angeles,One Size,Purple,Spring,3.4,No,Store Pickup,30%,FALL15,2,PayPal,Annually
+HM000142,28,Male,Heels,Footwear,83.54,Denver,L,Red,Summer,4.1,No,Standard,30%,SUMMER20,0,Credit Card,Rarely
+HM000143,24,Male,Wallet,Accessories,16.52,Portland,One Size,Blue,Summer,3.9,No,Express,30%,SUMMER20,4,PayPal,Annually
+HM000144,50,Male,Bag,Accessories,44.47,Philadelphia,One Size,Cream,Fall,4.4,No,Store Pickup,None,None,12,Credit Card,Monthly
+HM000145,22,Male,Hoodie,Clothing,33.57,Los Angeles,XXL,White,Fall,4.2,No,Store Pickup,30%,MEMBER25,6,Google Pay,Quarterly
+HM000146,19,Female,Bomber Jacket,Outerwear,138.34,Detroit,XL,Red,Spring,3.6,No,Express,15%,WELCOME10,8,Gift Card,Quarterly
+HM000147,46,Female,Hat,Accessories,22.85,Chicago,One Size,Gray,Spring,3.4,No,Next Day,30%,STUDENT10,9,Credit Card,Quarterly
+HM000148,59,Female,Watch,Accessories,25.15,Houston,One Size,Red,Spring,3.2,No,Store Pickup,None,None,5,Debit Card,Quarterly
+HM000149,63,Female,Sandals,Footwear,98.59,Seattle,L,Olive,Summer,4.6,No,Store Pickup,15%,NEWYEAR15,5,Credit Card,Quarterly
+HM000150,24,Male,Loafers,Footwear,56.66,Seattle,M,Blue,Spring,3.8,Yes,Express,10%,FLASH25,15,Apple Pay,Bi-weekly
+HM000151,36,Male,Belt,Accessories,31.44,Atlanta,One Size,Burgundy,Winter,1.4,Yes,Next Day,None,None,2,Credit Card,Annually
+HM000152,26,Male,Backpack,Accessories,40.40,Philadelphia,One Size,Yellow,Winter,3.8,No,Store Pickup,15%,FALL15,14,Credit Card,Monthly
+HM000153,64,Male,Sweater,Clothing,53.44,New York,L,Burgundy,Spring,4.5,No,Standard,15%,SUMMER20,9,Apple Pay,Quarterly
+HM000154,39,Female,Puffer Jacket,Outerwear,115.23,Boston,S,White,Winter,2.7,No,Express,30%,WELCOME10,13,Credit Card,Monthly
+HM000155,45,Female,Cardigan,Clothing,15.84,San Antonio,S,Gray,Summer,4.4,Yes,Express,30%,FLASH25,6,Gift Card,Quarterly
+HM000156,57,Female,Bomber Jacket,Outerwear,159.57,Philadelphia,S,Burgundy,Spring,3.3,No,Next Day,None,None,2,Debit Card,Annually
+HM000157,64,Male,Sweater,Clothing,25.36,Chicago,S,Gray,Spring,3.7,No,Standard,10%,FALL15,7,PayPal,Quarterly
+HM000158,41,Male,Bomber Jacket,Outerwear,126.85,Denver,XS,Black,Winter,4.1,Yes,Next Day,None,None,8,Debit Card,Quarterly
+HM000159,47,Female,Belt,Accessories,39.70,Los Angeles,One Size,Red,Fall,3.6,No,Express,None,None,3,Credit Card,Annually
+HM000160,22,Male,Scarf,Accessories,44.42,New York,One Size,Beige,Fall,3.2,Yes,Next Day,None,None,13,Apple Pay,Monthly
+HM000161,66,Male,Ankle Boots,Footwear,89.86,Houston,M,Red,Summer,4.0,Yes,Next Day,25%,STUDENT10,19,Apple Pay,Bi-weekly
+HM000162,41,Female,Joggers,Clothing,18.65,San Jose,XS,Olive,Spring,4.2,No,Store Pickup,30%,FALL15,4,Klarna,Annually
+HM000163,63,Female,Scarf,Accessories,11.27,Seattle,One Size,Red,Spring,3.4,No,Standard,None,None,7,PayPal,Quarterly
+HM000164,33,Male,Hat,Accessories,18.90,New York,One Size,Yellow,Fall,4.9,Yes,Store Pickup,25%,FLASH25,18,Debit Card,Bi-weekly
+HM000165,46,Male,Puffer Jacket,Outerwear,73.94,Denver,M,Navy,Summer,1.5,No,Standard,30%,MEMBER25,8,Credit Card,Quarterly
+HM000166,66,Male,Jewelry,Accessories,20.97,Boston,One Size,Beige,Fall,3.1,Yes,Express,10%,MEMBER25,22,Klarna,Weekly
+HM000167,32,Female,Jeans,Clothing,45.53,Philadelphia,S,Blue,Fall,2.8,Yes,Standard,25%,FLASH25,13,Google Pay,Monthly
+HM000168,29,Female,Chinos,Clothing,38.00,Phoenix,L,Purple,Summer,1.1,No,Store Pickup,20%,MEMBER25,2,Debit Card,Annually
+HM000169,59,Male,Running Shoes,Footwear,69.72,Denver,XS,Burgundy,Winter,1.9,No,Store Pickup,None,None,13,Debit Card,Monthly
+HM000170,54,Male,Chinos,Clothing,27.84,New York,XL,Olive,Summer,4.6,Yes,Express,10%,WELCOME10,12,Debit Card,Monthly
+HM000171,45,Female,Handbag,Accessories,13.65,Dallas,One Size,White,Summer,2.5,Yes,Standard,20%,SUMMER20,4,Debit Card,Annually
+HM000172,33,Female,Running Shoes,Footwear,68.37,Los Angeles,XXL,Green,Fall,3.7,Yes,Express,None,None,8,PayPal,Quarterly
+HM000173,20,Male,Trench Coat,Outerwear,76.09,Chicago,L,Blue,Winter,3.2,Yes,Next Day,30%,STUDENT10,4,Gift Card,Annually
+HM000174,19,Female,Skirt,Clothing,48.24,Miami,S,Cream,Winter,1.5,No,Express,25%,MEMBER25,2,PayPal,Annually
+HM000175,23,Male,Handbag,Accessories,13.75,Boston,One Size,Navy,Summer,4.0,Yes,Store Pickup,25%,FREESHIP,10,Google Pay,Monthly
+HM000176,21,Female,Polo Shirt,Clothing,18.52,Houston,L,Red,Winter,4.8,Yes,Express,15%,FREESHIP,14,Debit Card,Monthly
+HM000177,36,Female,Dress,Clothing,46.78,Chicago,XS,Yellow,Winter,4.9,No,Express,None,None,13,Debit Card,Monthly
+HM000178,67,Male,Boots,Footwear,68.07,Seattle,XXL,Yellow,Spring,4.8,No,Store Pickup,20%,SAVE30,5,Klarna,Quarterly
+HM000179,44,Female,Winter Coat,Outerwear,161.13,Jacksonville,S,White,Winter,4.8,No,Standard,None,None,14,Gift Card,Monthly
+HM000180,22,Female,Heels,Footwear,106.33,New York,XL,Purple,Spring,5.0,Yes,Standard,None,None,22,Gift Card,Weekly
+HM000181,23,Male,Sneakers,Footwear,58.80,Denver,S,Yellow,Summer,4.8,No,Express,20%,FREESHIP,5,Klarna,Quarterly
+HM000182,50,Male,Sunglasses,Accessories,21.45,Phoenix,One Size,Beige,Winter,4.0,No,Store Pickup,10%,FALL15,2,Gift Card,Annually
+HM000183,25,Male,Ankle Boots,Footwear,43.67,Phoenix,XXL,White,Spring,3.8,Yes,Store Pickup,30%,FREESHIP,3,Klarna,Annually
+HM000184,41,Female,Watch,Accessories,25.74,San Jose,One Size,Brown,Fall,3.1,Yes,Express,15%,FLASH25,6,Google Pay,Quarterly
+HM000185,30,Male,Scarf,Accessories,12.00,New York,One Size,Yellow,Fall,5.0,No,Next Day,None,None,10,Apple Pay,Monthly
+HM000186,42,Male,Winter Coat,Outerwear,88.05,San Jose,XL,Blue,Winter,3.3,Yes,Express,None,None,8,PayPal,Quarterly
+HM000187,48,Female,Puffer Jacket,Outerwear,155.87,San Antonio,XL,Black,Summer,3.4,No,Express,None,None,8,Debit Card,Quarterly
+HM000188,20,Female,Hoodie,Clothing,55.59,Los Angeles,M,Yellow,Summer,3.5,No,Standard,None,None,14,Gift Card,Monthly
+HM000189,65,Female,Flats,Footwear,45.19,Jacksonville,XS,Navy,Summer,4.9,Yes,Store Pickup,None,None,22,Credit Card,Weekly
+HM000190,38,Male,Watch,Accessories,36.82,San Antonio,One Size,Cream,Fall,2.2,Yes,Express,15%,NEWYEAR15,21,Debit Card,Weekly
+HM000191,52,Female,Handbag,Accessories,27.92,Austin,One Size,Cream,Spring,3.2,No,Standard,10%,SAVE30,6,Google Pay,Quarterly
+HM000192,34,Male,Belt,Accessories,8.93,San Antonio,One Size,Red,Summer,4.6,No,Store Pickup,30%,SUMMER20,7,Debit Card,Quarterly
+HM000193,50,Male,Sandals,Footwear,43.43,Jacksonville,S,Yellow,Spring,4.4,No,Express,25%,STUDENT10,4,Credit Card,Annually
+HM000194,39,Female,Parka,Outerwear,178.19,Detroit,M,Blue,Spring,3.6,No,Express,None,None,13,Apple Pay,Monthly
+HM000195,54,Male,Ankle Boots,Footwear,82.77,Denver,XXL,Black,Fall,3.4,Yes,Next Day,20%,FREESHIP,3,Debit Card,Annually
+HM000196,50,Female,Parka,Outerwear,66.29,Philadelphia,L,Olive,Spring,4.4,No,Next Day,None,None,12,Klarna,Monthly
+HM000197,29,Male,Basic T-Shirt,Clothing,28.83,New York,XXL,Red,Fall,4.5,Yes,Next Day,10%,FREESHIP,21,Apple Pay,Weekly
+HM000198,59,Male,Flats,Footwear,47.57,Philadelphia,XS,Olive,Winter,4.7,No,Standard,25%,SAVE30,7,Apple Pay,Quarterly
+HM000199,31,Female,Puffer Jacket,Outerwear,55.41,Jacksonville,XS,Navy,Fall,3.1,No,Standard,20%,FLASH25,4,Apple Pay,Annually
+HM000200,27,Male,Flats,Footwear,97.67,Boston,M,Navy,Spring,4.9,No,Next Day,None,None,11,Apple Pay,Monthly
+HM000201,25,Female,Bag,Accessories,34.35,Phoenix,One Size,Pink,Fall,4.8,No,Standard,25%,WELCOME10,3,PayPal,Annually
+HM000202,45,Female,Heels,Footwear,70.49,New York,M,Gray,Spring,3.4,Yes,Express,15%,FLASH25,0,Apple Pay,Rarely
+HM000203,46,Male,Sneakers,Footwear,55.68,Houston,XS,Brown,Winter,3.7,Yes,Express,30%,STUDENT10,22,Debit Card,Weekly
+HM000204,54,Male,Winter Coat,Outerwear,78.14,Denver,M,Brown,Winter,4.3,No,Standard,None,None,6,Gift Card,Quarterly
+HM000205,28,Male,Running Shoes,Footwear,78.93,Miami,XS,Purple,Winter,4.5,No,Standard,10%,WELCOME10,2,Credit Card,Annually
+HM000206,34,Male,Skirt,Clothing,53.40,Houston,L,Black,Summer,1.3,Yes,Standard,15%,WELCOME10,4,Debit Card,Annually
+HM000207,20,Male,Trench Coat,Outerwear,165.18,San Jose,M,Red,Spring,4.3,No,Express,None,None,5,Credit Card,Quarterly
+HM000208,63,Male,Ankle Boots,Footwear,91.50,Boston,S,Navy,Spring,3.7,No,Next Day,None,None,11,Debit Card,Monthly
+HM000209,19,Male,Flats,Footwear,76.00,San Diego,L,Olive,Summer,3.4,Yes,Express,15%,FREESHIP,12,PayPal,Monthly
+HM000210,57,Female,Bomber Jacket,Outerwear,109.80,Detroit,XS,Purple,Fall,3.7,No,Next Day,None,None,6,Apple Pay,Quarterly
+HM000211,18,Male,Sneakers,Footwear,72.19,Miami,M,Purple,Summer,4.4,No,Standard,None,None,3,Apple Pay,Annually
+HM000212,39,Male,Hat,Accessories,49.87,San Antonio,One Size,Red,Spring,3.2,No,Store Pickup,None,None,4,PayPal,Annually
+HM000213,29,Female,Loafers,Footwear,88.15,Miami,S,Beige,Summer,4.7,No,Next Day,25%,NEWYEAR15,0,Klarna,Rarely
+HM000214,22,Female,Scarf,Accessories,46.00,Boston,One Size,White,Spring,4.3,No,Standard,None,None,10,Debit Card,Monthly
+HM000215,58,Female,Sandals,Footwear,74.66,Miami,XS,Green,Spring,3.8,No,Next Day,None,None,6,Google Pay,Quarterly
+HM000216,18,Female,Leggings,Clothing,62.00,Las Vegas,XS,Cream,Winter,4.6,No,Next Day,None,None,14,Debit Card,Monthly
+HM000217,63,Female,Loafers,Footwear,59.89,Portland,L,Olive,Fall,5.0,No,Express,None,None,12,Debit Card,Monthly
+HM000218,35,Female,Dress,Clothing,22.35,San Diego,S,Black,Summer,3.6,No,Next Day,None,None,13,PayPal,Monthly
+HM000219,35,Female,Loafers,Footwear,87.39,Phoenix,XS,Olive,Winter,4.0,No,Express,None,None,14,Debit Card,Monthly
+HM000220,22,Male,Trench Coat,Outerwear,110.43,New York,XL,Yellow,Fall,3.9,No,Next Day,None,None,11,Gift Card,Monthly
+HM000221,62,Female,Puffer Jacket,Outerwear,123.11,Portland,L,Green,Summer,4.5,No,Express,None,None,8,Gift Card,Quarterly
+HM000222,61,Male,Parka,Outerwear,148.95,Denver,S,Beige,Spring,3.8,No,Standard,None,None,3,Credit Card,Annually
+HM000223,22,Female,Belt,Accessories,14.02,Houston,One Size,Gray,Fall,3.4,No,Next Day,None,None,9,Google Pay,Quarterly
+HM000224,29,Male,Flats,Footwear,71.94,Boston,L,Cream,Fall,3.8,No,Express,None,None,14,Apple Pay,Monthly
+HM000225,57,Male,Joggers,Clothing,20.60,Denver,XS,Pink,Winter,3.8,No,Store Pickup,25%,FALL15,13,Gift Card,Monthly
+HM000226,62,Male,Belt,Accessories,25.28,Las Vegas,One Size,White,Spring,4.1,No,Next Day,20%,MEMBER25,11,Gift Card,Monthly
+HM000227,30,Male,Jewelry,Accessories,23.39,New York,One Size,Green,Winter,4.1,No,Standard,None,None,11,Apple Pay,Monthly
+HM000228,19,Male,Bomber Jacket,Outerwear,70.10,Detroit,XL,Yellow,Summer,4.7,No,Express,30%,MEMBER25,0,Gift Card,Rarely
+HM000229,50,Female,Scarf,Accessories,48.53,New York,One Size,Beige,Summer,3.9,Yes,Store Pickup,None,None,17,Apple Pay,Bi-weekly
+HM000230,24,Male,Jewelry,Accessories,30.79,San Antonio,One Size,Navy,Winter,3.5,No,Standard,None,None,2,Debit Card,Annually
+HM000231,61,Male,Joggers,Clothing,30.50,Phoenix,XXL,Green,Fall,3.3,No,Next Day,20%,SUMMER20,9,Klarna,Quarterly
+HM000232,26,Male,Hat,Accessories,37.01,San Antonio,One Size,Purple,Spring,1.6,Yes,Express,15%,NEWYEAR15,22,PayPal,Weekly
+HM000233,50,Male,Boots,Footwear,68.53,San Diego,XXL,Pink,Winter,3.9,Yes,Next Day,25%,SAVE30,18,Apple Pay,Bi-weekly
+HM000234,61,Female,Tank Top,Clothing,60.66,Chicago,M,Brown,Fall,4.0,No,Store Pickup,None,None,8,Debit Card,Quarterly
+HM000235,63,Female,Scarf,Accessories,13.82,San Diego,One Size,Brown,Spring,4.7,No,Express,None,None,6,Gift Card,Quarterly
+HM000236,41,Male,Flats,Footwear,90.43,Chicago,S,Cream,Summer,4.5,No,Next Day,None,None,1,Debit Card,Rarely
+HM000237,51,Male,Wallet,Accessories,18.49,Austin,One Size,Cream,Spring,3.1,No,Next Day,20%,FREESHIP,12,Klarna,Monthly
+HM000238,56,Male,Sweater,Clothing,30.83,New York,S,Green,Summer,5.0,No,Express,None,None,14,Apple Pay,Monthly
+HM000239,43,Male,Puffer Jacket,Outerwear,80.44,Chicago,S,Gray,Winter,4.1,No,Standard,None,None,4,Klarna,Annually
+HM000240,67,Male,Ankle Boots,Footwear,59.25,New York,L,Brown,Summer,4.0,Yes,Next Day,20%,STUDENT10,0,PayPal,Rarely
+HM000241,38,Female,Running Shoes,Footwear,84.07,Chicago,XS,Navy,Spring,5.0,No,Express,20%,MEMBER25,0,Debit Card,Rarely
+HM000242,41,Male,Polo Shirt,Clothing,33.76,Portland,M,Red,Spring,1.4,Yes,Standard,None,None,22,Gift Card,Weekly
+HM000243,57,Male,Hoodie,Clothing,52.83,Atlanta,M,Burgundy,Summer,1.2,No,Store Pickup,None,None,10,PayPal,Monthly
+HM000244,64,Female,Wallet,Accessories,48.73,San Jose,One Size,Pink,Summer,3.1,No,Next Day,None,None,7,Apple Pay,Quarterly
+HM000245,62,Male,Sneakers,Footwear,108.85,Portland,XS,Cream,Summer,4.6,No,Standard,None,None,5,Google Pay,Quarterly
+HM000246,47,Male,Parka,Outerwear,78.23,Seattle,XXL,Black,Winter,3.7,No,Next Day,None,None,12,Credit Card,Monthly
+HM000247,58,Female,Hat,Accessories,28.02,San Diego,One Size,Pink,Fall,3.8,No,Store Pickup,None,None,3,Debit Card,Annually
+HM000248,25,Male,Boots,Footwear,78.95,San Jose,XL,Red,Spring,4.2,Yes,Next Day,None,None,16,Gift Card,Bi-weekly
+HM000249,43,Female,Boots,Footwear,46.91,Boston,XXL,Navy,Spring,4.7,No,Express,15%,NEWYEAR15,1,Google Pay,Rarely
+HM000250,50,Female,Backpack,Accessories,20.56,Phoenix,One Size,Pink,Spring,4.0,No,Standard,15%,STUDENT10,11,Apple Pay,Monthly
+HM000251,18,Male,Flats,Footwear,35.19,Portland,XS,Black,Summer,4.8,No,Express,25%,NEWYEAR15,3,Apple Pay,Annually
+HM000252,53,Male,Scarf,Accessories,45.60,Jacksonville,One Size,White,Spring,4.8,No,Standard,None,None,5,Gift Card,Quarterly
+HM000253,34,Female,Blazer,Clothing,50.53,Jacksonville,S,Green,Summer,2.6,Yes,Standard,30%,SAVE30,13,PayPal,Monthly
+HM000254,21,Male,Trench Coat,Outerwear,133.31,Chicago,S,Pink,Fall,3.5,No,Next Day,None,None,3,Apple Pay,Annually
+HM000255,64,Male,Belt,Accessories,29.64,Dallas,One Size,Gray,Winter,2.2,Yes,Express,20%,STUDENT10,5,Credit Card,Quarterly
+HM000256,60,Male,Chinos,Clothing,41.90,Dallas,XXL,Beige,Spring,3.7,Yes,Store Pickup,20%,STUDENT10,19,Debit Card,Bi-weekly
+HM000257,47,Male,Belt,Accessories,22.17,Miami,One Size,Gray,Fall,4.2,No,Store Pickup,25%,FALL15,3,Debit Card,Annually
+HM000258,39,Female,Hoodie,Clothing,51.32,Denver,L,Yellow,Summer,4.4,No,Next Day,None,None,6,Gift Card,Quarterly
+HM000259,51,Male,Sunglasses,Accessories,10.58,Dallas,One Size,Navy,Spring,3.4,Yes,Express,None,None,2,Debit Card,Annually
+HM000260,46,Female,Flats,Footwear,76.20,Jacksonville,XS,Cream,Spring,5.0,Yes,Store Pickup,None,None,9,Klarna,Quarterly
+HM000261,19,Female,Sweater,Clothing,62.80,Austin,M,Beige,Spring,2.6,No,Store Pickup,None,None,8,Klarna,Quarterly
+HM000262,48,Female,Chinos,Clothing,45.47,Philadelphia,XS,Brown,Fall,4.2,No,Store Pickup,None,None,13,Gift Card,Monthly
+HM000263,53,Male,Running Shoes,Footwear,62.39,San Diego,S,Cream,Winter,4.0,No,Store Pickup,25%,FLASH25,11,Apple Pay,Monthly
+HM000264,18,Male,Dress,Clothing,44.95,Denver,S,Burgundy,Winter,4.5,Yes,Store Pickup,20%,SAVE30,1,Apple Pay,Rarely
+HM000265,48,Female,Jacket,Clothing,21.81,Philadelphia,S,Pink,Winter,1.3,Yes,Next Day,None,None,6,Klarna,Quarterly
+HM000266,56,Male,Jewelry,Accessories,16.56,San Antonio,One Size,Yellow,Spring,2.0,Yes,Store Pickup,10%,MEMBER25,2,Google Pay,Annually
+HM000267,42,Female,Heels,Footwear,81.41,Portland,XS,Green,Spring,4.0,No,Standard,15%,MEMBER25,6,Klarna,Quarterly
+HM000268,39,Male,Denim Jacket,Outerwear,110.37,New York,XL,White,Spring,4.1,No,Standard,20%,FALL15,13,PayPal,Monthly
+HM000269,34,Female,Handbag,Accessories,16.64,Atlanta,One Size,Red,Winter,3.0,Yes,Express,10%,WELCOME10,19,Apple Pay,Bi-weekly
+HM000270,21,Male,Watch,Accessories,14.41,Austin,One Size,Black,Spring,4.1,No,Express,25%,STUDENT10,8,Apple Pay,Quarterly
+HM000271,54,Male,Parka,Outerwear,110.59,Houston,S,Black,Winter,3.4,No,Express,None,None,13,Apple Pay,Monthly
+HM000272,26,Male,Sweater,Clothing,13.82,Chicago,XL,Purple,Winter,3.3,No,Store Pickup,10%,FALL15,2,Google Pay,Annually
+HM000273,18,Male,Dress,Clothing,25.93,San Diego,XL,Beige,Summer,3.4,Yes,Standard,20%,SUMMER20,1,Google Pay,Rarely
+HM000274,50,Female,Leggings,Clothing,70.31,Philadelphia,XL,Purple,Fall,4.1,No,Next Day,None,None,9,Google Pay,Quarterly
+HM000275,38,Female,Coat,Clothing,24.19,New York,XXL,Cream,Spring,4.6,Yes,Store Pickup,30%,STUDENT10,17,Gift Card,Bi-weekly
+HM000276,39,Male,Belt,Accessories,17.07,Boston,One Size,Gray,Fall,4.0,No,Store Pickup,None,None,3,Debit Card,Annually
+HM000277,50,Female,Belt,Accessories,40.00,Jacksonville,One Size,Red,Winter,3.7,No,Next Day,10%,STUDENT10,9,Credit Card,Quarterly
+HM000278,25,Male,Boots,Footwear,68.88,Portland,XS,Red,Fall,4.3,Yes,Express,25%,FREESHIP,24,Credit Card,Weekly
+HM000279,59,Male,Polo Shirt,Clothing,34.33,Las Vegas,XL,Pink,Summer,4.4,No,Express,15%,NEWYEAR15,0,Google Pay,Rarely
+HM000280,40,Female,Sunglasses,Accessories,11.54,San Antonio,One Size,Navy,Fall,3.2,Yes,Store Pickup,20%,FALL15,12,Gift Card,Monthly
+HM000281,33,Male,Scarf,Accessories,36.47,Detroit,One Size,Black,Fall,4.7,No,Express,25%,SUMMER20,9,Debit Card,Quarterly
+HM000282,52,Female,Sneakers,Footwear,85.26,New York,S,Gray,Winter,4.5,No,Express,25%,FREESHIP,6,Credit Card,Quarterly
+HM000283,65,Female,Handbag,Accessories,42.82,Detroit,One Size,Purple,Winter,3.9,Yes,Standard,None,None,18,Apple Pay,Bi-weekly
+HM000284,50,Male,Chinos,Clothing,64.32,San Diego,XS,Red,Summer,3.5,No,Express,None,None,9,Gift Card,Quarterly
+HM000285,54,Male,Jewelry,Accessories,39.99,Houston,One Size,Red,Fall,3.4,No,Store Pickup,None,None,1,Apple Pay,Rarely
+HM000286,40,Female,Ankle Boots,Footwear,51.53,Los Angeles,XL,Yellow,Winter,4.4,No,Next Day,None,None,3,Google Pay,Annually
+HM000287,22,Male,Bomber Jacket,Outerwear,142.74,Miami,XXL,Beige,Summer,4.2,No,Standard,None,None,4,PayPal,Annually
+HM000288,36,Female,Sweater,Clothing,10.57,San Antonio,XL,Purple,Summer,1.8,Yes,Standard,30%,STUDENT10,17,Credit Card,Bi-weekly
+HM000289,59,Male,Backpack,Accessories,15.19,San Antonio,One Size,Burgundy,Summer,4.1,Yes,Express,20%,STUDENT10,0,Credit Card,Rarely
+HM000290,63,Male,Handbag,Accessories,18.98,Jacksonville,One Size,Red,Winter,3.5,No,Store Pickup,15%,MEMBER25,8,Debit Card,Quarterly
+HM000291,30,Female,Leggings,Clothing,12.75,San Antonio,L,Black,Spring,3.5,Yes,Express,15%,FLASH25,4,PayPal,Annually
+HM000292,50,Female,Jeans,Clothing,23.89,Chicago,XXL,Black,Fall,4.0,No,Store Pickup,20%,NEWYEAR15,10,Credit Card,Monthly
+HM000293,30,Male,Watch,Accessories,28.04,Houston,One Size,Red,Spring,4.9,No,Standard,20%,STUDENT10,11,Google Pay,Monthly
+HM000294,24,Female,Scarf,Accessories,8.12,Chicago,One Size,Brown,Winter,4.7,Yes,Standard,30%,WELCOME10,17,Google Pay,Bi-weekly
+HM000295,33,Female,Ankle Boots,Footwear,112.32,Austin,XXL,Yellow,Winter,3.7,No,Standard,None,None,4,Klarna,Annually
+HM000296,37,Male,Hoodie,Clothing,59.25,Phoenix,XXL,Gray,Spring,3.6,Yes,Next Day,None,None,11,Debit Card,Monthly
+HM000297,22,Male,Puffer Jacket,Outerwear,124.56,Portland,XL,Brown,Winter,4.1,No,Next Day,20%,SUMMER20,14,Debit Card,Monthly
+HM000298,58,Female,Boots,Footwear,58.40,San Jose,S,Beige,Spring,4.3,No,Standard,25%,FREESHIP,5,Klarna,Quarterly
+HM000299,29,Male,Blazer,Clothing,67.06,San Antonio,XS,Pink,Summer,3.8,No,Standard,None,None,5,Klarna,Quarterly
+HM000300,30,Female,Dress Shirt,Clothing,63.63,San Jose,S,Brown,Summer,3.4,Yes,Next Day,None,None,14,Apple Pay,Monthly
+HM000301,63,Male,Basic T-Shirt,Clothing,55.57,Detroit,XS,Beige,Fall,4.8,Yes,Express,None,None,1,Klarna,Rarely
+HM000302,34,Female,Handbag,Accessories,21.19,Phoenix,One Size,Navy,Fall,4.0,No,Express,20%,NEWYEAR15,12,Debit Card,Monthly
+HM000303,39,Female,Wallet,Accessories,21.04,Houston,One Size,Red,Winter,4.8,Yes,Standard,20%,SAVE30,21,Credit Card,Weekly
+HM000304,59,Male,Boots,Footwear,43.88,Atlanta,S,Black,Winter,2.6,No,Express,None,None,3,Klarna,Annually
+HM000305,19,Female,Puffer Jacket,Outerwear,179.63,San Diego,XL,Pink,Fall,4.0,Yes,Express,None,None,8,Gift Card,Quarterly
+HM000306,32,Male,Chinos,Clothing,45.79,Denver,M,Pink,Summer,2.5,No,Store Pickup,25%,STUDENT10,12,Credit Card,Monthly
+HM000307,47,Female,Parka,Outerwear,105.25,Denver,XS,Cream,Summer,3.3,No,Store Pickup,15%,FLASH25,6,PayPal,Quarterly
+HM000308,60,Male,Jeans,Clothing,54.63,Austin,XL,Gray,Fall,2.0,Yes,Express,None,None,11,PayPal,Monthly
+HM000309,51,Male,Loafers,Footwear,52.68,Boston,XS,Burgundy,Summer,3.9,Yes,Standard,None,None,3,Klarna,Annually
+HM000310,54,Male,Loafers,Footwear,108.65,Phoenix,L,Brown,Fall,3.9,No,Next Day,None,None,3,Klarna,Annually
+HM000311,66,Male,Parka,Outerwear,67.86,Denver,XXL,Brown,Spring,3.4,Yes,Express,None,None,14,Apple Pay,Monthly
+HM000312,20,Female,Heels,Footwear,109.73,Denver,L,Blue,Summer,5.0,Yes,Next Day,None,None,7,Klarna,Quarterly
+HM000313,51,Male,Scarf,Accessories,28.79,Atlanta,One Size,Pink,Fall,5.0,No,Store Pickup,25%,WELCOME10,12,Credit Card,Monthly
+HM000314,22,Female,Boots,Footwear,109.27,Houston,XS,Blue,Summer,3.5,Yes,Store Pickup,None,None,24,PayPal,Weekly
+HM000315,26,Male,Parka,Outerwear,147.73,Philadelphia,S,Purple,Spring,1.5,Yes,Express,None,None,20,Google Pay,Weekly
+HM000316,24,Male,Loafers,Footwear,50.21,Seattle,S,Navy,Winter,3.8,No,Express,30%,WELCOME10,9,PayPal,Quarterly
+HM000317,48,Female,Sunglasses,Accessories,17.16,Seattle,One Size,Pink,Spring,1.4,No,Standard,30%,FALL15,14,Credit Card,Monthly
+HM000318,19,Male,Parka,Outerwear,179.78,San Jose,S,Blue,Winter,3.6,Yes,Standard,None,None,6,Gift Card,Quarterly
+HM000319,46,Male,Running Shoes,Footwear,70.52,Houston,L,Pink,Fall,4.5,No,Next Day,None,None,4,Apple Pay,Annually
+HM000320,41,Male,Jacket,Clothing,22.87,Seattle,XL,Blue,Winter,1.1,No,Standard,20%,NEWYEAR15,3,Gift Card,Annually
+HM000321,20,Male,Watch,Accessories,21.84,Los Angeles,One Size,Pink,Spring,2.0,Yes,Express,None,None,21,Debit Card,Weekly
+HM000322,48,Male,Sweater,Clothing,20.09,Los Angeles,XS,Black,Fall,3.7,No,Next Day,25%,FALL15,11,PayPal,Monthly
+HM000323,50,Male,Winter Coat,Outerwear,116.38,Denver,XS,Cream,Summer,4.0,Yes,Express,25%,FLASH25,8,Apple Pay,Quarterly
+HM000324,25,Male,Ankle Boots,Footwear,80.11,Boston,S,Beige,Winter,4.0,No,Next Day,None,None,10,Google Pay,Monthly
+HM000325,34,Male,Loafers,Footwear,38.09,Boston,XXL,Pink,Summer,3.6,No,Express,10%,MEMBER25,2,PayPal,Annually
+HM000326,58,Female,Bomber Jacket,Outerwear,118.03,San Jose,XS,Brown,Spring,4.9,No,Standard,None,None,9,Debit Card,Quarterly
+HM000327,36,Male,Parka,Outerwear,72.14,Philadelphia,XL,Red,Spring,3.3,Yes,Standard,10%,SUMMER20,24,Google Pay,Weekly
+HM000328,30,Male,Trench Coat,Outerwear,168.43,Philadelphia,L,Purple,Spring,3.3,No,Standard,None,None,2,Google Pay,Annually
+HM000329,28,Female,Trench Coat,Outerwear,107.41,San Antonio,XXL,Brown,Spring,4.1,Yes,Next Day,15%,FALL15,21,Debit Card,Weekly
+HM000330,66,Male,Running Shoes,Footwear,68.55,Atlanta,XXL,Purple,Spring,4.8,No,Express,25%,FREESHIP,5,PayPal,Quarterly
+HM000331,57,Male,Flats,Footwear,47.49,Los Angeles,XL,Olive,Fall,5.0,No,Express,None,None,11,Debit Card,Monthly
+HM000332,45,Female,Denim Jacket,Outerwear,64.79,Boston,S,Purple,Summer,3.9,No,Express,None,None,10,Debit Card,Monthly
+HM000333,18,Female,Belt,Accessories,8.23,Jacksonville,One Size,White,Winter,4.4,Yes,Standard,20%,SUMMER20,8,Klarna,Quarterly
+HM000334,59,Female,Denim Jacket,Outerwear,100.88,Philadelphia,XXL,Pink,Fall,3.2,No,Standard,None,None,11,Apple Pay,Monthly
+HM000335,29,Male,Parka,Outerwear,142.52,Atlanta,M,Pink,Summer,3.2,Yes,Standard,None,None,20,Credit Card,Weekly
+HM000336,48,Female,Sneakers,Footwear,80.74,New York,XXL,Burgundy,Spring,5.0,No,Express,10%,SUMMER20,9,Credit Card,Quarterly
+HM000337,18,Female,Loafers,Footwear,63.41,Las Vegas,L,Red,Spring,4.8,No,Next Day,25%,FLASH25,10,Credit Card,Monthly
+HM000338,51,Female,Polo Shirt,Clothing,16.05,Houston,XL,Green,Spring,4.9,Yes,Express,None,None,23,Debit Card,Weekly
+HM000339,52,Female,Scarf,Accessories,8.58,New York,One Size,Gray,Winter,3.7,No,Next Day,30%,MEMBER25,9,Google Pay,Quarterly
+HM000340,22,Male,Jewelry,Accessories,42.36,San Antonio,One Size,Black,Fall,5.0,No,Next Day,15%,SAVE30,9,Debit Card,Quarterly
+HM000341,19,Male,Jewelry,Accessories,36.70,Las Vegas,One Size,Cream,Spring,4.0,No,Standard,25%,SAVE30,14,Apple Pay,Monthly
+HM000342,31,Female,Flats,Footwear,91.31,San Antonio,M,Beige,Fall,3.4,Yes,Standard,None,None,11,Debit Card,Monthly
+HM000343,27,Female,Jacket,Clothing,68.42,Seattle,M,Yellow,Winter,3.3,Yes,Express,None,None,12,Google Pay,Monthly
+HM000344,57,Male,Dress Shirt,Clothing,54.26,Seattle,XL,Pink,Winter,4.8,Yes,Next Day,None,None,20,Klarna,Weekly
+HM000345,30,Male,Handbag,Accessories,23.92,Seattle,One Size,Navy,Winter,4.4,No,Next Day,30%,SAVE30,6,Credit Card,Quarterly
+HM000346,63,Female,Bomber Jacket,Outerwear,130.67,Austin,XXL,Olive,Spring,4.2,No,Express,None,None,2,Credit Card,Annually
+HM000347,43,Male,Sunglasses,Accessories,13.01,Austin,One Size,Burgundy,Summer,2.3,Yes,Store Pickup,20%,NEWYEAR15,1,Google Pay,Rarely
+HM000348,22,Male,Scarf,Accessories,15.22,Phoenix,One Size,Beige,Winter,3.3,No,Express,30%,FREESHIP,13,Klarna,Monthly
+HM000349,67,Male,Loafers,Footwear,54.09,Philadelphia,L,Cream,Summer,4.7,No,Next Day,20%,FREESHIP,5,Gift Card,Quarterly
+HM000350,64,Female,Parka,Outerwear,70.80,Houston,M,Cream,Fall,4.5,No,Store Pickup,25%,MEMBER25,9,Apple Pay,Quarterly
+HM000351,33,Female,Jewelry,Accessories,37.74,Jacksonville,One Size,Black,Winter,1.7,Yes,Next Day,None,None,23,Gift Card,Weekly
+HM000352,34,Female,Backpack,Accessories,29.82,Houston,One Size,White,Winter,3.4,No,Standard,15%,FREESHIP,5,Klarna,Quarterly
+HM000353,65,Female,Jeans,Clothing,58.97,Atlanta,S,Purple,Spring,3.5,No,Standard,None,None,3,Apple Pay,Annually
+HM000354,25,Male,Denim Jacket,Outerwear,107.98,San Diego,L,Yellow,Winter,4.3,No,Store Pickup,10%,SUMMER20,0,Google Pay,Rarely
+HM000355,30,Female,Jacket,Clothing,53.56,San Antonio,S,Green,Spring,1.0,No,Store Pickup,15%,STUDENT10,0,Gift Card,Rarely
+HM000356,27,Female,Flats,Footwear,111.55,Atlanta,M,Blue,Winter,3.4,No,Standard,None,None,3,Gift Card,Annually
+HM000357,22,Male,Winter Coat,Outerwear,99.26,Houston,XS,Yellow,Winter,3.6,Yes,Standard,15%,WELCOME10,17,PayPal,Bi-weekly
+HM000358,56,Male,Bomber Jacket,Outerwear,67.75,Boston,XL,Blue,Spring,3.8,Yes,Express,10%,FLASH25,22,Gift Card,Weekly
+HM000359,44,Female,Parka,Outerwear,67.55,Austin,S,Pink,Fall,4.6,No,Store Pickup,None,None,6,Google Pay,Quarterly
+HM000360,26,Male,Sunglasses,Accessories,30.79,Portland,One Size,Yellow,Fall,3.8,No,Next Day,25%,FREESHIP,14,Gift Card,Monthly
+HM000361,49,Male,Trench Coat,Outerwear,67.30,Denver,M,Blue,Spring,4.7,Yes,Standard,20%,NEWYEAR15,20,Apple Pay,Weekly
+HM000362,50,Male,Puffer Jacket,Outerwear,139.36,San Jose,M,Beige,Summer,4.7,Yes,Express,None,None,18,PayPal,Bi-weekly
+HM000363,35,Male,Tank Top,Clothing,19.72,Los Angeles,S,Burgundy,Summer,1.2,Yes,Express,20%,WELCOME10,9,Gift Card,Quarterly
+HM000364,25,Female,Winter Coat,Outerwear,118.96,Miami,S,Blue,Summer,4.6,No,Next Day,None,None,2,PayPal,Annually
+HM000365,43,Male,Ankle Boots,Footwear,33.99,Philadelphia,M,Brown,Winter,4.3,No,Standard,25%,FLASH25,0,Apple Pay,Rarely
+HM000366,39,Female,Wallet,Accessories,43.93,Denver,One Size,Red,Summer,3.1,No,Standard,None,None,5,Google Pay,Quarterly
+HM000367,57,Female,Jacket,Clothing,29.06,Miami,XL,Brown,Spring,3.9,No,Store Pickup,10%,SAVE30,6,PayPal,Quarterly
+HM000368,30,Male,Boots,Footwear,107.03,Chicago,M,Pink,Winter,4.3,Yes,Next Day,None,None,12,Klarna,Monthly
+HM000369,51,Female,Belt,Accessories,29.30,Philadelphia,One Size,Cream,Spring,4.2,No,Store Pickup,25%,FREESHIP,4,Apple Pay,Annually
+HM000370,45,Male,Sandals,Footwear,44.60,Phoenix,XS,Burgundy,Spring,4.7,No,Standard,10%,FALL15,6,Apple Pay,Quarterly
+HM000371,31,Female,Sweater,Clothing,32.84,Austin,XL,Cream,Winter,3.5,No,Standard,None,None,2,PayPal,Annually
+HM000372,63,Male,Running Shoes,Footwear,40.87,Houston,S,Pink,Summer,4.9,No,Store Pickup,10%,SAVE30,5,Gift Card,Quarterly
+HM000373,51,Male,Puffer Jacket,Outerwear,107.62,Los Angeles,L,Beige,Fall,2.2,Yes,Express,None,None,2,Apple Pay,Annually
+HM000374,24,Male,Boots,Footwear,65.10,Dallas,XL,Olive,Spring,4.4,No,Express,25%,STUDENT10,12,Google Pay,Monthly
+HM000375,63,Male,Backpack,Accessories,27.33,Seattle,One Size,Red,Spring,1.1,No,Standard,25%,WELCOME10,5,Google Pay,Quarterly
+HM000376,56,Female,Leggings,Clothing,53.37,Phoenix,XS,Gray,Winter,4.7,Yes,Standard,20%,SUMMER20,3,Debit Card,Annually
+HM000377,23,Male,Bomber Jacket,Outerwear,90.38,Philadelphia,XXL,Blue,Winter,5.0,No,Express,15%,SAVE30,10,Gift Card,Monthly
+HM000378,40,Male,Bag,Accessories,18.69,Seattle,One Size,Black,Spring,2.7,No,Express,30%,WELCOME10,5,Google Pay,Quarterly
+HM000379,54,Male,Chinos,Clothing,23.05,New York,XL,White,Spring,4.5,Yes,Next Day,20%,MEMBER25,23,Debit Card,Weekly
+HM000380,58,Male,Heels,Footwear,99.54,New York,XXL,Olive,Winter,1.8,Yes,Standard,None,None,2,Apple Pay,Annually
+HM000381,28,Female,Puffer Jacket,Outerwear,65.44,Portland,XS,Gray,Summer,4.1,Yes,Next Day,None,None,24,Credit Card,Weekly
+HM000382,39,Male,Bomber Jacket,Outerwear,118.67,San Jose,XXL,Burgundy,Fall,3.6,Yes,Standard,25%,SAVE30,1,Credit Card,Rarely
+HM000383,67,Male,Scarf,Accessories,13.65,Detroit,One Size,Olive,Winter,4.1,No,Next Day,25%,FREESHIP,8,Klarna,Quarterly
+HM000384,20,Male,Wallet,Accessories,17.33,Chicago,One Size,Navy,Fall,2.6,No,Next Day,None,None,5,Google Pay,Quarterly
+HM000385,53,Male,Scarf,Accessories,43.91,Dallas,One Size,Yellow,Fall,4.4,No,Standard,None,None,8,Klarna,Quarterly
+HM000386,36,Male,Boots,Footwear,86.27,Las Vegas,L,Gray,Spring,4.1,Yes,Next Day,None,None,14,Klarna,Monthly
+HM000387,28,Male,Belt,Accessories,35.83,Philadelphia,One Size,Brown,Fall,3.0,No,Store Pickup,25%,SAVE30,4,Debit Card,Annually
+HM000388,22,Male,Chinos,Clothing,65.84,Boston,M,Black,Fall,4.2,No,Express,None,None,11,PayPal,Monthly
+HM000389,67,Female,Ankle Boots,Footwear,48.22,Seattle,XL,Burgundy,Spring,3.9,Yes,Store Pickup,None,None,11,Klarna,Monthly
+HM000390,24,Female,Wallet,Accessories,42.96,Phoenix,One Size,Pink,Summer,4.4,No,Store Pickup,None,None,14,Google Pay,Monthly
+HM000391,65,Male,Sandals,Footwear,38.14,New York,XXL,Navy,Spring,4.5,No,Next Day,10%,WELCOME10,12,Apple Pay,Monthly
+HM000392,30,Male,Sunglasses,Accessories,45.63,Austin,One Size,Pink,Summer,5.0,Yes,Store Pickup,None,None,3,Gift Card,Annually
+HM000393,34,Male,Ankle Boots,Footwear,49.97,San Jose,XXL,Green,Spring,3.5,No,Next Day,25%,STUDENT10,0,Google Pay,Rarely
+HM000394,33,Female,Trench Coat,Outerwear,86.81,San Jose,L,Burgundy,Fall,3.7,Yes,Next Day,25%,WELCOME10,0,Debit Card,Rarely
+HM000395,34,Male,Loafers,Footwear,76.46,New York,S,Blue,Spring,3.2,Yes,Express,None,None,5,Gift Card,Quarterly
+HM000396,29,Female,Dress,Clothing,19.99,Atlanta,XL,Red,Summer,4.1,No,Store Pickup,30%,MEMBER25,6,Credit Card,Quarterly
+HM000397,37,Male,Backpack,Accessories,38.20,New York,One Size,Blue,Winter,4.4,No,Express,15%,FREESHIP,5,Google Pay,Quarterly
+HM000398,45,Male,Wallet,Accessories,34.77,Phoenix,One Size,Purple,Fall,3.6,Yes,Next Day,20%,SUMMER20,20,Credit Card,Weekly
+HM000399,24,Male,Scarf,Accessories,15.03,Seattle,One Size,Navy,Fall,3.3,Yes,Express,25%,NEWYEAR15,15,Apple Pay,Bi-weekly
+HM000400,54,Female,Denim Jacket,Outerwear,115.80,New York,S,Black,Winter,2.8,Yes,Store Pickup,25%,STUDENT10,12,Google Pay,Monthly
+HM000401,38,Male,Leggings,Clothing,50.29,Los Angeles,XXL,Yellow,Winter,4.6,Yes,Express,15%,FLASH25,6,Klarna,Quarterly
+HM000402,35,Male,Skirt,Clothing,31.99,Las Vegas,XXL,Pink,Fall,4.4,No,Next Day,20%,NEWYEAR15,7,Credit Card,Quarterly
+HM000403,33,Female,Sandals,Footwear,71.39,Phoenix,XL,Brown,Winter,3.3,Yes,Next Day,None,None,16,Apple Pay,Bi-weekly
+HM000404,61,Male,Trench Coat,Outerwear,62.30,Las Vegas,XL,Olive,Summer,4.9,No,Express,25%,SAVE30,6,Apple Pay,Quarterly
+HM000405,43,Male,Bomber Jacket,Outerwear,114.79,Jacksonville,XL,White,Winter,1.4,Yes,Store Pickup,25%,FALL15,4,Google Pay,Annually
+HM000406,37,Male,Watch,Accessories,47.63,San Antonio,One Size,Blue,Spring,3.4,No,Express,None,None,12,Apple Pay,Monthly
+HM000407,35,Male,Flats,Footwear,41.42,Seattle,S,Cream,Spring,4.5,No,Store Pickup,30%,MEMBER25,9,Gift Card,Quarterly
+HM000408,42,Male,Heels,Footwear,118.83,Seattle,M,Purple,Summer,1.5,Yes,Express,None,None,18,Google Pay,Bi-weekly
+HM000409,59,Male,Scarf,Accessories,13.03,San Antonio,One Size,Beige,Winter,3.3,Yes,Store Pickup,20%,STUDENT10,4,Google Pay,Annually
+HM000410,50,Male,Backpack,Accessories,32.54,Atlanta,One Size,White,Fall,3.8,Yes,Next Day,20%,SUMMER20,6,Credit Card,Quarterly
+HM000411,63,Female,Parka,Outerwear,70.42,New York,M,Olive,Spring,4.7,Yes,Store Pickup,30%,FALL15,0,Credit Card,Rarely
+HM000412,21,Female,Trench Coat,Outerwear,75.84,Chicago,XXL,White,Spring,3.9,Yes,Next Day,None,None,19,Credit Card,Bi-weekly
+HM000413,63,Male,Ankle Boots,Footwear,65.82,Boston,L,Olive,Fall,3.0,Yes,Store Pickup,None,None,21,Credit Card,Weekly
+HM000414,53,Female,Heels,Footwear,51.94,Jacksonville,XS,Gray,Summer,1.1,Yes,Store Pickup,None,None,4,Debit Card,Annually
+HM000415,23,Female,Parka,Outerwear,93.34,Miami,S,Blue,Spring,3.2,Yes,Standard,10%,SUMMER20,10,Google Pay,Monthly
+HM000416,43,Female,Backpack,Accessories,19.97,Jacksonville,One Size,Navy,Spring,3.9,Yes,Express,None,None,8,Apple Pay,Quarterly
+HM000417,18,Male,Jacket,Clothing,69.81,Austin,XL,Blue,Winter,4.8,Yes,Express,None,None,17,Apple Pay,Bi-weekly
+HM000418,28,Male,Bag,Accessories,14.55,Miami,One Size,Pink,Spring,4.6,No,Standard,30%,MEMBER25,2,Apple Pay,Annually
+HM000419,31,Male,Jacket,Clothing,47.43,Detroit,S,White,Spring,4.4,No,Store Pickup,None,None,7,Credit Card,Quarterly
+HM000420,59,Female,Cardigan,Clothing,48.00,Detroit,XL,Brown,Winter,4.3,Yes,Store Pickup,None,None,15,Google Pay,Bi-weekly
+HM000421,19,Male,Jewelry,Accessories,36.20,San Antonio,One Size,Brown,Spring,2.6,Yes,Next Day,None,None,15,Google Pay,Bi-weekly
+HM000422,53,Female,Basic T-Shirt,Clothing,20.65,Austin,S,Navy,Fall,5.0,No,Standard,30%,MEMBER25,0,Debit Card,Rarely
+HM000423,41,Male,Running Shoes,Footwear,60.04,Dallas,XL,Black,Fall,4.8,No,Next Day,None,None,14,Credit Card,Monthly
+HM000424,32,Female,Scarf,Accessories,45.41,Jacksonville,One Size,Red,Summer,1.7,No,Standard,None,None,0,PayPal,Rarely
+HM000425,40,Female,Ankle Boots,Footwear,69.15,Boston,XXL,Yellow,Fall,3.7,No,Next Day,25%,FLASH25,4,Credit Card,Annually
+HM000426,59,Female,Puffer Jacket,Outerwear,124.24,Atlanta,XL,Black,Winter,2.2,No,Standard,20%,WELCOME10,8,Apple Pay,Quarterly
+HM000427,32,Male,Puffer Jacket,Outerwear,102.11,San Antonio,S,Cream,Winter,4.9,No,Express,15%,FREESHIP,0,Google Pay,Rarely
+HM000428,39,Male,Sweater,Clothing,35.98,Philadelphia,L,Beige,Summer,4.0,Yes,Standard,None,None,11,Google Pay,Monthly
+HM000429,23,Male,Parka,Outerwear,53.83,Las Vegas,S,Pink,Winter,4.6,No,Express,20%,WELCOME10,13,Google Pay,Monthly
+HM000430,21,Female,Watch,Accessories,16.22,Seattle,One Size,Green,Summer,4.2,No,Next Day,None,None,6,PayPal,Quarterly
+HM000431,27,Male,Skirt,Clothing,29.67,Portland,XS,Pink,Spring,3.2,Yes,Next Day,None,None,18,PayPal,Bi-weekly
+HM000432,46,Male,Flats,Footwear,70.60,New York,XXL,Navy,Fall,3.1,No,Standard,15%,MEMBER25,5,Debit Card,Quarterly
+HM000433,43,Female,Parka,Outerwear,120.04,Denver,L,Gray,Fall,4.5,No,Standard,10%,FREESHIP,5,Apple Pay,Quarterly
+HM000434,26,Male,Dress Shirt,Clothing,16.12,Jacksonville,L,Black,Summer,3.1,Yes,Store Pickup,30%,FLASH25,22,Gift Card,Weekly
+HM000435,57,Female,Coat,Clothing,27.36,Austin,S,Yellow,Winter,2.2,Yes,Standard,25%,WELCOME10,21,Apple Pay,Weekly
+HM000436,62,Female,Parka,Outerwear,112.86,Houston,XS,Cream,Summer,3.9,Yes,Next Day,20%,SUMMER20,13,Apple Pay,Monthly
+HM000437,57,Female,Flats,Footwear,84.06,Seattle,M,Black,Summer,4.0,Yes,Next Day,15%,WELCOME10,0,Debit Card,Rarely
+HM000438,66,Female,Sunglasses,Accessories,20.97,San Jose,One Size,Yellow,Summer,1.8,Yes,Store Pickup,25%,WELCOME10,6,Google Pay,Quarterly
+HM000439,57,Female,Puffer Jacket,Outerwear,106.67,Austin,L,Olive,Summer,3.9,No,Next Day,None,None,10,Google Pay,Monthly
+HM000440,37,Male,Wallet,Accessories,32.22,Austin,One Size,Pink,Spring,3.3,Yes,Standard,30%,FALL15,13,PayPal,Monthly
+HM000441,33,Female,Jacket,Clothing,26.96,New York,XS,Beige,Summer,3.4,No,Next Day,15%,NEWYEAR15,3,Google Pay,Annually
+HM000442,43,Male,Belt,Accessories,12.71,Houston,One Size,Cream,Winter,1.7,No,Store Pickup,None,None,11,Google Pay,Monthly
+HM000443,56,Female,Scarf,Accessories,44.02,San Antonio,One Size,White,Spring,4.6,No,Express,10%,SUMMER20,4,Google Pay,Annually
+HM000444,49,Female,Jeans,Clothing,33.50,Denver,XS,Purple,Spring,3.3,No,Express,20%,MEMBER25,7,PayPal,Quarterly
+HM000445,54,Male,Parka,Outerwear,90.82,Austin,M,Beige,Summer,4.5,Yes,Standard,30%,SAVE30,13,Klarna,Monthly
+HM000446,51,Female,Boots,Footwear,94.45,New York,L,Gray,Fall,4.3,No,Next Day,None,None,3,PayPal,Annually
+HM000447,28,Male,Bag,Accessories,18.89,Houston,One Size,Yellow,Spring,4.7,Yes,Express,30%,STUDENT10,7,Apple Pay,Quarterly
+HM000448,19,Female,Wallet,Accessories,27.25,Austin,One Size,Brown,Winter,4.1,No,Express,None,None,12,Google Pay,Monthly
+HM000449,64,Female,Handbag,Accessories,8.65,Houston,One Size,Olive,Spring,1.1,No,Next Day,25%,STUDENT10,12,PayPal,Monthly
+HM000450,49,Male,Scarf,Accessories,12.06,Denver,One Size,Yellow,Summer,3.5,Yes,Express,None,None,20,Gift Card,Weekly
+HM000451,49,Female,Winter Coat,Outerwear,125.80,San Jose,XXL,Blue,Summer,3.2,No,Store Pickup,30%,STUDENT10,11,PayPal,Monthly
+HM000452,51,Male,Winter Coat,Outerwear,110.40,San Diego,S,White,Summer,2.3,No,Next Day,30%,WELCOME10,2,Apple Pay,Annually
+HM000453,58,Male,Dress Shirt,Clothing,44.24,Houston,XXL,Pink,Fall,4.9,No,Next Day,None,None,7,Klarna,Quarterly
+HM000454,41,Female,Backpack,Accessories,14.19,Phoenix,One Size,Navy,Spring,3.4,Yes,Standard,None,None,10,Credit Card,Monthly
+HM000455,36,Male,Sandals,Footwear,87.40,Las Vegas,S,Yellow,Summer,3.5,No,Store Pickup,20%,FLASH25,5,Apple Pay,Quarterly
+HM000456,58,Male,Skirt,Clothing,17.75,Houston,XXL,Burgundy,Winter,3.6,Yes,Standard,None,None,5,Apple Pay,Quarterly
+HM000457,60,Male,Hat,Accessories,27.24,Atlanta,One Size,Gray,Fall,3.5,No,Next Day,30%,FREESHIP,10,Apple Pay,Monthly
+HM000458,36,Female,Jeans,Clothing,51.79,Dallas,S,Green,Spring,4.6,No,Next Day,30%,FALL15,8,Klarna,Quarterly
+HM000459,65,Male,Watch,Accessories,36.69,San Antonio,One Size,Cream,Winter,3.1,Yes,Next Day,15%,SAVE30,2,PayPal,Annually
+HM000460,23,Male,Trench Coat,Outerwear,72.32,Miami,XS,Red,Winter,4.9,No,Store Pickup,None,None,8,PayPal,Quarterly
+HM000461,57,Female,Polo Shirt,Clothing,22.33,Los Angeles,S,White,Winter,1.0,No,Next Day,20%,WELCOME10,7,Apple Pay,Quarterly
+HM000462,39,Female,Loafers,Footwear,64.38,New York,L,White,Spring,4.0,Yes,Next Day,None,None,23,Debit Card,Weekly
+HM000463,18,Male,Heels,Footwear,110.12,Portland,XXL,Green,Winter,1.6,No,Next Day,None,None,9,Apple Pay,Quarterly
+HM000464,24,Female,Belt,Accessories,21.25,Seattle,One Size,White,Winter,3.4,No,Store Pickup,10%,SAVE30,4,Google Pay,Annually
+HM000465,41,Male,Sandals,Footwear,61.02,Portland,XL,White,Summer,3.8,Yes,Standard,None,None,18,Gift Card,Bi-weekly
+HM000466,48,Female,Basic T-Shirt,Clothing,55.74,Boston,M,Red,Winter,3.7,No,Express,None,None,13,PayPal,Monthly
+HM000467,54,Female,Handbag,Accessories,9.38,Boston,One Size,Red,Summer,4.6,No,Next Day,30%,SAVE30,1,Apple Pay,Rarely
+HM000468,42,Male,Heels,Footwear,114.33,Las Vegas,XXL,White,Spring,3.5,No,Next Day,None,None,8,PayPal,Quarterly
+HM000469,27,Male,Skirt,Clothing,51.27,Houston,XS,Cream,Summer,4.5,No,Next Day,30%,SAVE30,9,Gift Card,Quarterly
+HM000470,52,Female,Puffer Jacket,Outerwear,133.22,Las Vegas,L,Burgundy,Spring,4.0,No,Next Day,15%,FREESHIP,6,Debit Card,Quarterly
+HM000471,34,Male,Coat,Clothing,41.37,San Antonio,L,White,Summer,4.2,No,Next Day,None,None,8,Google Pay,Quarterly
+HM000472,44,Female,Wallet,Accessories,14.09,Phoenix,One Size,Green,Spring,4.9,Yes,Standard,None,None,20,Google Pay,Weekly
+HM000473,60,Male,Wallet,Accessories,9.73,Atlanta,One Size,Olive,Summer,3.3,No,Next Day,30%,STUDENT10,14,PayPal,Monthly
+HM000474,21,Female,Polo Shirt,Clothing,31.81,Portland,L,White,Summer,4.3,No,Next Day,None,None,14,Debit Card,Monthly
+HM000475,67,Male,Denim Jacket,Outerwear,77.69,Jacksonville,S,Purple,Winter,3.1,No,Express,15%,SAVE30,5,PayPal,Quarterly
+HM000476,56,Female,Denim Jacket,Outerwear,171.83,Houston,XXL,Blue,Spring,4.6,No,Store Pickup,None,None,14,PayPal,Monthly
+HM000477,43,Male,Ankle Boots,Footwear,74.52,San Antonio,L,Navy,Spring,3.9,No,Standard,25%,SAVE30,13,Klarna,Monthly
+HM000478,27,Male,Skirt,Clothing,13.15,Detroit,S,Beige,Winter,3.9,No,Store Pickup,25%,MEMBER25,0,Credit Card,Rarely
+HM000479,35,Female,Blazer,Clothing,37.17,New York,XL,Gray,Summer,3.9,Yes,Store Pickup,15%,FLASH25,10,Klarna,Monthly
+HM000480,49,Male,Polo Shirt,Clothing,19.41,Phoenix,S,Pink,Spring,4.9,No,Next Day,25%,SAVE30,12,Google Pay,Monthly
+HM000481,45,Female,Winter Coat,Outerwear,101.51,Portland,XL,Yellow,Summer,4.3,Yes,Express,20%,NEWYEAR15,13,Klarna,Monthly
+HM000482,49,Female,Winter Coat,Outerwear,91.28,Phoenix,XS,Beige,Winter,4.5,No,Store Pickup,None,None,2,PayPal,Annually
+HM000483,34,Male,Trench Coat,Outerwear,111.70,San Jose,XXL,Black,Spring,3.9,Yes,Store Pickup,20%,FREESHIP,13,Credit Card,Monthly
+HM000484,63,Male,Sweater,Clothing,14.97,Miami,XS,Brown,Winter,1.9,No,Express,30%,NEWYEAR15,14,PayPal,Monthly
+HM000485,34,Male,Handbag,Accessories,48.55,Detroit,One Size,Purple,Winter,3.9,No,Express,None,None,3,Debit Card,Annually
+HM000486,27,Female,Winter Coat,Outerwear,139.54,Las Vegas,S,Olive,Summer,3.7,No,Next Day,None,None,13,Credit Card,Monthly
+HM000487,36,Male,Flats,Footwear,80.37,Phoenix,L,Burgundy,Summer,3.6,No,Store Pickup,None,None,8,Debit Card,Quarterly
+HM000488,26,Female,Jeans,Clothing,56.91,Portland,XS,Blue,Summer,3.5,Yes,Express,None,None,15,Google Pay,Bi-weekly
+HM000489,21,Female,Puffer Jacket,Outerwear,114.68,San Antonio,XL,Olive,Fall,4.0,No,Express,None,None,1,Credit Card,Rarely
+HM000490,59,Male,Denim Jacket,Outerwear,48.05,Portland,S,Red,Spring,4.0,No,Standard,25%,FALL15,4,Gift Card,Annually
+HM000491,50,Male,Dress,Clothing,34.08,Phoenix,L,Gray,Winter,4.6,No,Store Pickup,None,None,13,Apple Pay,Monthly
+HM000492,24,Male,Sneakers,Footwear,69.66,Las Vegas,XL,Brown,Winter,4.7,Yes,Store Pickup,None,None,23,Google Pay,Weekly
+HM000493,44,Female,Basic T-Shirt,Clothing,32.82,Chicago,XS,Olive,Summer,3.1,Yes,Standard,15%,NEWYEAR15,20,Apple Pay,Weekly
+HM000494,18,Female,Handbag,Accessories,17.35,Los Angeles,One Size,Beige,Fall,4.6,Yes,Express,None,None,15,Klarna,Bi-weekly
+HM000495,42,Female,Scarf,Accessories,32.47,Portland,One Size,Red,Summer,1.6,Yes,Express,None,None,12,PayPal,Monthly
+HM000496,36,Male,Hoodie,Clothing,60.74,Chicago,XS,Beige,Fall,3.5,No,Next Day,None,None,9,Apple Pay,Quarterly
+HM000497,61,Male,Flats,Footwear,99.58,Los Angeles,L,Brown,Spring,3.6,No,Store Pickup,None,None,11,PayPal,Monthly
+HM000498,37,Male,Jeans,Clothing,49.78,Houston,XL,Brown,Fall,2.3,No,Standard,15%,WELCOME10,4,Gift Card,Annually
+HM000499,20,Male,Chinos,Clothing,65.16,Dallas,M,Yellow,Spring,5.0,No,Express,None,None,13,Credit Card,Monthly
+HM000500,57,Female,Sunglasses,Accessories,34.95,Los Angeles,One Size,Blue,Fall,4.2,No,Express,30%,SAVE30,9,Klarna,Quarterly
+HM000501,52,Male,Skirt,Clothing,47.31,Jacksonville,XXL,White,Winter,1.8,No,Next Day,None,None,5,Debit Card,Quarterly
+HM000502,42,Female,Boots,Footwear,93.49,Jacksonville,M,Burgundy,Spring,4.5,Yes,Standard,15%,MEMBER25,12,Klarna,Monthly
+HM000503,55,Female,Backpack,Accessories,49.51,Boston,One Size,Red,Summer,3.0,No,Standard,None,None,0,Gift Card,Rarely
+HM000504,27,Female,Boots,Footwear,40.59,Denver,L,Beige,Summer,4.8,Yes,Express,None,None,4,Klarna,Annually
+HM000505,37,Male,Coat,Clothing,30.01,Atlanta,XL,White,Winter,4.7,Yes,Standard,30%,FALL15,19,Apple Pay,Bi-weekly
+HM000506,62,Male,Flats,Footwear,90.71,San Diego,S,Olive,Summer,2.3,No,Store Pickup,15%,NEWYEAR15,5,PayPal,Quarterly
+HM000507,62,Male,Wallet,Accessories,22.71,Philadelphia,One Size,Olive,Summer,3.7,No,Express,25%,STUDENT10,4,Klarna,Annually
+HM000508,49,Female,Hat,Accessories,36.33,Seattle,One Size,Brown,Summer,4.4,Yes,Standard,None,None,10,PayPal,Monthly
+HM000509,43,Male,Boots,Footwear,116.86,New York,L,Pink,Winter,4.5,No,Next Day,None,None,6,Google Pay,Quarterly
+HM000510,54,Male,Boots,Footwear,51.48,San Jose,S,Black,Fall,4.4,Yes,Store Pickup,None,None,22,Debit Card,Weekly
+HM000511,43,Male,Watch,Accessories,16.65,San Jose,One Size,Gray,Summer,3.3,Yes,Standard,10%,NEWYEAR15,11,Google Pay,Monthly
+HM000512,56,Female,Denim Jacket,Outerwear,139.92,Boston,XS,Yellow,Spring,3.8,No,Store Pickup,None,None,10,Gift Card,Monthly
+HM000513,44,Male,Dress,Clothing,22.81,Seattle,XXL,Navy,Fall,4.9,No,Standard,10%,WELCOME10,5,Klarna,Quarterly
+HM000514,25,Male,Bomber Jacket,Outerwear,70.87,Miami,L,Pink,Fall,2.8,No,Standard,25%,FREESHIP,13,Google Pay,Monthly
+HM000515,41,Male,Puffer Jacket,Outerwear,98.46,San Diego,XS,Olive,Summer,3.3,No,Express,None,None,8,Gift Card,Quarterly
+HM000516,45,Male,Sunglasses,Accessories,13.56,San Diego,One Size,Blue,Winter,3.2,Yes,Next Day,None,None,5,Apple Pay,Quarterly
+HM000517,48,Male,Scarf,Accessories,14.84,Denver,One Size,Olive,Fall,5.0,No,Next Day,15%,NEWYEAR15,6,Klarna,Quarterly
+HM000518,28,Male,Trench Coat,Outerwear,94.03,Los Angeles,S,Brown,Summer,3.3,Yes,Store Pickup,15%,FLASH25,13,Gift Card,Monthly
+HM000519,40,Female,Jeans,Clothing,48.60,Jacksonville,S,Purple,Fall,4.9,Yes,Standard,30%,STUDENT10,10,Apple Pay,Monthly
+HM000520,34,Male,Heels,Footwear,31.93,Boston,XS,Brown,Winter,3.7,Yes,Next Day,25%,WELCOME10,1,Klarna,Rarely
+HM000521,65,Female,Boots,Footwear,111.87,Las Vegas,S,White,Fall,2.3,No,Standard,None,None,1,PayPal,Rarely
+HM000522,56,Male,Puffer Jacket,Outerwear,103.58,Austin,S,Gray,Summer,3.6,No,Next Day,20%,FREESHIP,4,Credit Card,Annually
+HM000523,59,Male,Heels,Footwear,105.46,San Antonio,XS,Burgundy,Spring,4.3,Yes,Express,None,None,9,Credit Card,Quarterly
+HM000524,41,Male,Denim Jacket,Outerwear,176.43,Denver,XS,Olive,Winter,3.1,Yes,Standard,None,None,4,PayPal,Annually
+HM000525,25,Female,Sandals,Footwear,48.63,Boston,XL,Black,Summer,4.5,No,Standard,None,None,13,PayPal,Monthly
+HM000526,41,Male,Sandals,Footwear,52.71,Dallas,XL,Green,Spring,4.7,Yes,Standard,15%,WELCOME10,17,Credit Card,Bi-weekly
+HM000527,67,Male,Boots,Footwear,111.62,Las Vegas,XS,Green,Summer,3.2,Yes,Standard,None,None,11,Apple Pay,Monthly
+HM000528,30,Male,Bomber Jacket,Outerwear,176.91,Las Vegas,S,Pink,Spring,4.9,Yes,Express,None,None,19,Klarna,Bi-weekly
+HM000529,62,Female,Chinos,Clothing,47.20,San Diego,S,Navy,Summer,1.9,Yes,Express,10%,MEMBER25,17,Klarna,Bi-weekly
+HM000530,30,Male,Sneakers,Footwear,99.47,Denver,L,Yellow,Winter,4.8,No,Store Pickup,10%,FALL15,12,Debit Card,Monthly
+HM000531,33,Male,Parka,Outerwear,100.42,Philadelphia,XL,Navy,Summer,3.5,No,Next Day,25%,WELCOME10,14,Apple Pay,Monthly
+HM000532,26,Female,Parka,Outerwear,84.62,Phoenix,XS,Burgundy,Fall,1.6,No,Store Pickup,10%,STUDENT10,7,Apple Pay,Quarterly
+HM000533,57,Male,Chinos,Clothing,13.00,Houston,XXL,Navy,Winter,4.0,Yes,Store Pickup,20%,NEWYEAR15,5,Google Pay,Quarterly
+HM000534,31,Male,Wallet,Accessories,29.62,Philadelphia,One Size,Gray,Summer,4.4,Yes,Standard,10%,SUMMER20,22,Debit Card,Weekly
+HM000535,25,Female,Handbag,Accessories,31.49,San Diego,One Size,Brown,Winter,4.3,Yes,Express,20%,NEWYEAR15,19,Klarna,Bi-weekly
+HM000536,42,Male,Leggings,Clothing,23.39,Atlanta,S,Navy,Winter,1.1,Yes,Express,10%,MEMBER25,2,Google Pay,Annually
+HM000537,39,Male,Jewelry,Accessories,12.39,Miami,One Size,Navy,Spring,3.2,Yes,Standard,25%,WELCOME10,19,Google Pay,Bi-weekly
+HM000538,64,Male,Belt,Accessories,30.96,Seattle,One Size,Gray,Winter,3.2,No,Store Pickup,10%,FLASH25,9,Klarna,Quarterly
+HM000539,30,Female,Dress,Clothing,72.22,Miami,L,Burgundy,Summer,2.6,Yes,Next Day,None,None,7,Google Pay,Quarterly
+HM000540,18,Female,Heels,Footwear,111.91,Dallas,XS,Olive,Fall,2.6,No,Store Pickup,None,None,0,Debit Card,Rarely
+HM000541,66,Female,Boots,Footwear,73.63,Austin,S,Brown,Fall,1.8,Yes,Next Day,None,None,1,Credit Card,Rarely
+HM000542,67,Male,Cardigan,Clothing,23.03,Phoenix,XXL,Yellow,Winter,3.7,No,Store Pickup,None,None,7,Credit Card,Quarterly
+HM000543,58,Female,Parka,Outerwear,152.50,Philadelphia,M,Purple,Fall,3.1,No,Standard,15%,STUDENT10,14,Credit Card,Monthly
+HM000544,32,Female,Chinos,Clothing,28.27,Detroit,M,Red,Winter,3.2,No,Express,None,None,13,Klarna,Monthly
+HM000545,18,Female,Watch,Accessories,40.17,San Jose,One Size,Purple,Spring,4.8,Yes,Next Day,None,None,3,Gift Card,Annually
+HM000546,44,Female,Sneakers,Footwear,70.14,Portland,M,White,Fall,3.1,Yes,Store Pickup,None,None,16,PayPal,Bi-weekly
+HM000547,31,Female,Jewelry,Accessories,17.14,San Diego,One Size,Cream,Spring,3.6,No,Standard,None,None,6,Apple Pay,Quarterly
+HM000548,62,Male,Hoodie,Clothing,46.26,San Jose,XXL,Beige,Winter,3.0,No,Store Pickup,20%,SUMMER20,12,Gift Card,Monthly
+HM000549,36,Female,Loafers,Footwear,119.17,Portland,M,Pink,Summer,4.0,No,Store Pickup,None,None,13,Credit Card,Monthly
+HM000550,66,Female,Jeans,Clothing,56.06,Chicago,XXL,Cream,Summer,2.7,No,Express,10%,FREESHIP,2,Apple Pay,Annually
+HM000551,54,Female,Sandals,Footwear,72.07,Phoenix,XXL,Green,Summer,5.0,No,Express,10%,FLASH25,0,Klarna,Rarely
+HM000552,29,Male,Winter Coat,Outerwear,78.40,Detroit,L,Brown,Winter,3.7,Yes,Express,10%,FLASH25,16,Google Pay,Bi-weekly
+HM000553,19,Male,Trench Coat,Outerwear,51.40,San Jose,S,Pink,Summer,4.5,No,Express,25%,SAVE30,13,Google Pay,Monthly
+HM000554,55,Female,Sneakers,Footwear,52.70,Dallas,XXL,Beige,Spring,2.1,Yes,Standard,None,None,13,Debit Card,Monthly
+HM000555,56,Female,Running Shoes,Footwear,45.10,New York,XL,White,Summer,2.9,Yes,Standard,None,None,17,Apple Pay,Bi-weekly
+HM000556,52,Female,Bomber Jacket,Outerwear,121.14,Phoenix,XL,Navy,Winter,4.5,No,Store Pickup,15%,FALL15,2,Credit Card,Annually
+HM000557,40,Male,Coat,Clothing,67.03,Boston,M,Purple,Fall,3.5,No,Store Pickup,None,None,2,Apple Pay,Annually
+HM000558,66,Male,Boots,Footwear,116.05,Los Angeles,XXL,Green,Summer,3.2,No,Standard,None,None,11,Apple Pay,Monthly
+HM000559,31,Female,Sneakers,Footwear,80.29,Portland,XXL,Black,Winter,3.7,No,Next Day,25%,MEMBER25,1,Gift Card,Rarely
+HM000560,38,Female,Jeans,Clothing,36.77,San Jose,XL,Pink,Summer,3.0,No,Store Pickup,None,None,12,Google Pay,Monthly
+HM000561,48,Male,Belt,Accessories,17.74,Atlanta,One Size,Gray,Summer,5.0,No,Express,15%,SAVE30,10,PayPal,Monthly
+HM000562,49,Male,Sneakers,Footwear,53.68,Austin,M,Navy,Summer,5.0,Yes,Next Day,None,None,9,Credit Card,Quarterly
+HM000563,20,Male,Bag,Accessories,15.61,Miami,One Size,Gray,Fall,3.2,Yes,Store Pickup,20%,STUDENT10,13,Debit Card,Monthly
+HM000564,66,Male,Backpack,Accessories,37.66,San Antonio,One Size,White,Winter,1.8,Yes,Express,15%,MEMBER25,0,Credit Card,Rarely
+HM000565,29,Male,Denim Jacket,Outerwear,118.80,Seattle,L,Black,Summer,3.6,Yes,Express,10%,SAVE30,15,Debit Card,Bi-weekly
+HM000566,40,Female,Leggings,Clothing,34.56,Portland,S,Blue,Summer,3.8,No,Express,20%,NEWYEAR15,6,Gift Card,Quarterly
+HM000567,51,Female,Flats,Footwear,84.31,Jacksonville,XS,Olive,Spring,3.8,No,Express,20%,FALL15,14,Klarna,Monthly
+HM000568,61,Male,Trench Coat,Outerwear,66.43,Dallas,XXL,White,Winter,4.0,No,Express,20%,MEMBER25,7,Google Pay,Quarterly
+HM000569,31,Male,Heels,Footwear,58.28,New York,M,Red,Summer,3.3,No,Standard,15%,MEMBER25,10,Gift Card,Monthly
+HM000570,39,Male,Dress,Clothing,43.65,Detroit,XS,Black,Summer,3.7,Yes,Standard,25%,FREESHIP,13,Gift Card,Monthly
+HM000571,49,Male,Bomber Jacket,Outerwear,102.84,Las Vegas,XL,Pink,Summer,4.9,Yes,Store Pickup,15%,FALL15,2,PayPal,Annually
+HM000572,30,Male,Handbag,Accessories,16.84,Philadelphia,One Size,Cream,Summer,4.4,No,Express,25%,MEMBER25,14,Gift Card,Monthly
+HM000573,58,Male,Boots,Footwear,81.85,Jacksonville,S,Beige,Fall,3.9,Yes,Standard,None,None,2,Debit Card,Annually
+HM000574,34,Female,Sunglasses,Accessories,33.68,Austin,One Size,Navy,Summer,4.1,No,Standard,25%,NEWYEAR15,3,Klarna,Annually
+HM000575,32,Female,Leggings,Clothing,46.12,San Diego,XL,Pink,Fall,4.8,No,Standard,25%,SAVE30,12,Google Pay,Monthly
+HM000576,58,Male,Belt,Accessories,11.15,San Antonio,One Size,Cream,Spring,4.0,No,Express,10%,WELCOME10,2,Gift Card,Annually
+HM000577,29,Male,Skirt,Clothing,39.77,New York,XS,Brown,Summer,4.8,Yes,Store Pickup,30%,SAVE30,8,Apple Pay,Quarterly
+HM000578,19,Male,Flats,Footwear,36.33,Phoenix,L,Navy,Spring,5.0,No,Store Pickup,30%,FREESHIP,5,Google Pay,Quarterly
+HM000579,18,Male,Watch,Accessories,13.50,Miami,One Size,Yellow,Summer,4.4,Yes,Next Day,None,None,8,Credit Card,Quarterly
+HM000580,52,Female,Sneakers,Footwear,58.51,San Diego,XS,Pink,Fall,3.2,No,Express,None,None,9,PayPal,Quarterly
+HM000581,43,Female,Denim Jacket,Outerwear,55.19,New York,XL,Brown,Spring,2.2,Yes,Next Day,25%,FALL15,24,PayPal,Weekly
+HM000582,19,Male,Boots,Footwear,75.87,Los Angeles,XXL,Brown,Spring,2.3,Yes,Next Day,15%,FLASH25,5,Klarna,Quarterly
+HM000583,49,Male,Cardigan,Clothing,48.60,Boston,XL,Beige,Fall,3.3,No,Standard,None,None,3,Klarna,Annually
+HM000584,42,Male,Dress,Clothing,30.88,San Jose,XXL,Beige,Summer,3.2,No,Express,10%,FLASH25,4,Gift Card,Annually
+HM000585,21,Male,Bomber Jacket,Outerwear,65.10,San Diego,S,Olive,Winter,4.3,Yes,Express,25%,SUMMER20,20,Klarna,Weekly
+HM000586,18,Female,Loafers,Footwear,97.08,Boston,XS,Gray,Spring,4.9,No,Next Day,None,None,13,Credit Card,Monthly
+HM000587,26,Male,Watch,Accessories,12.73,Denver,One Size,Green,Spring,3.3,Yes,Store Pickup,15%,MEMBER25,22,Klarna,Weekly
+HM000588,38,Male,Scarf,Accessories,17.10,Las Vegas,One Size,Red,Winter,2.2,Yes,Standard,25%,NEWYEAR15,17,Apple Pay,Bi-weekly
+HM000589,21,Male,Running Shoes,Footwear,85.37,San Jose,XL,Pink,Spring,3.8,No,Express,25%,SUMMER20,12,Gift Card,Monthly
+HM000590,29,Male,Bomber Jacket,Outerwear,106.47,Portland,L,Pink,Spring,4.0,No,Standard,25%,STUDENT10,6,Debit Card,Quarterly
+HM000591,49,Female,Parka,Outerwear,140.20,San Antonio,M,Gray,Winter,3.0,No,Standard,15%,MEMBER25,8,Google Pay,Quarterly
+HM000592,57,Male,Sandals,Footwear,71.30,Denver,XS,Purple,Winter,4.3,No,Standard,20%,WELCOME10,14,Apple Pay,Monthly
+HM000593,62,Male,Bomber Jacket,Outerwear,68.43,Detroit,M,Blue,Spring,4.6,No,Express,30%,MEMBER25,3,PayPal,Annually
+HM000594,18,Female,Trench Coat,Outerwear,64.09,San Antonio,L,Brown,Fall,3.1,Yes,Express,None,None,0,Credit Card,Rarely
+HM000595,24,Female,Basic T-Shirt,Clothing,38.68,San Diego,S,Purple,Fall,3.5,Yes,Next Day,20%,FREESHIP,9,Apple Pay,Quarterly
+HM000596,24,Female,Parka,Outerwear,63.70,San Diego,S,Gray,Spring,1.5,No,Express,25%,NEWYEAR15,14,Debit Card,Monthly
+HM000597,60,Female,Denim Jacket,Outerwear,113.96,Houston,XS,Burgundy,Winter,4.2,No,Store Pickup,10%,FLASH25,12,Apple Pay,Monthly
+HM000598,25,Female,Dress,Clothing,34.67,Phoenix,XS,Burgundy,Summer,3.6,Yes,Store Pickup,30%,FLASH25,4,Apple Pay,Annually
+HM000599,32,Female,Hoodie,Clothing,58.79,Chicago,XXL,Blue,Spring,2.1,No,Express,None,None,9,Gift Card,Quarterly
+HM000600,42,Male,Sneakers,Footwear,109.22,Seattle,XXL,Red,Fall,3.1,Yes,Express,None,None,12,PayPal,Monthly
+HM000601,60,Male,Backpack,Accessories,32.32,Dallas,One Size,Black,Spring,4.1,Yes,Standard,10%,WELCOME10,10,Google Pay,Monthly
+HM000602,31,Male,Jacket,Clothing,74.92,Jacksonville,L,Gray,Summer,4.1,No,Store Pickup,None,None,1,Google Pay,Rarely
+HM000603,36,Male,Sunglasses,Accessories,39.21,Denver,One Size,Gray,Winter,4.9,Yes,Express,15%,FREESHIP,24,Google Pay,Weekly
+HM000604,32,Male,Bomber Jacket,Outerwear,75.57,New York,S,Beige,Summer,3.8,No,Standard,None,None,3,PayPal,Annually
+HM000605,23,Male,Belt,Accessories,17.92,San Diego,One Size,Beige,Fall,4.6,Yes,Next Day,30%,FALL15,19,PayPal,Bi-weekly
+HM000606,22,Female,Leggings,Clothing,47.98,New York,XXL,Burgundy,Spring,4.2,Yes,Store Pickup,10%,MEMBER25,10,Gift Card,Monthly
+HM000607,43,Male,Jeans,Clothing,45.88,Miami,S,Olive,Fall,3.7,Yes,Express,25%,FLASH25,2,Gift Card,Annually
+HM000608,26,Female,Dress,Clothing,35.28,Portland,M,Beige,Summer,4.6,No,Standard,30%,FLASH25,7,Credit Card,Quarterly
+HM000609,32,Female,Running Shoes,Footwear,103.69,Detroit,L,White,Summer,3.1,Yes,Next Day,10%,SUMMER20,1,Apple Pay,Rarely
+HM000610,56,Male,Running Shoes,Footwear,53.76,Phoenix,L,Black,Fall,3.1,Yes,Store Pickup,10%,STUDENT10,19,Gift Card,Bi-weekly
+HM000611,43,Female,Skirt,Clothing,46.44,Chicago,XS,Navy,Summer,4.2,Yes,Standard,30%,SAVE30,12,PayPal,Monthly
+HM000612,38,Female,Parka,Outerwear,137.54,Chicago,S,Beige,Summer,4.1,No,Standard,None,None,4,Gift Card,Annually
+HM000613,19,Female,Trench Coat,Outerwear,133.50,Las Vegas,M,Yellow,Winter,4.9,No,Next Day,25%,MEMBER25,9,Apple Pay,Quarterly
+HM000614,63,Male,Parka,Outerwear,93.07,Philadelphia,XL,Yellow,Fall,4.2,No,Store Pickup,10%,FALL15,0,Google Pay,Rarely
+HM000615,21,Male,Winter Coat,Outerwear,61.17,Atlanta,XS,Navy,Fall,4.3,Yes,Express,30%,FREESHIP,9,Google Pay,Quarterly
+HM000616,41,Female,Flats,Footwear,73.50,Chicago,M,Cream,Spring,4.1,No,Standard,None,None,12,Apple Pay,Monthly
+HM000617,34,Male,Parka,Outerwear,103.40,Philadelphia,XXL,Blue,Winter,4.8,No,Standard,25%,FALL15,8,Credit Card,Quarterly
+HM000618,39,Female,Sunglasses,Accessories,23.36,San Diego,One Size,Green,Winter,3.6,No,Next Day,None,None,7,Gift Card,Quarterly
+HM000619,62,Male,Ankle Boots,Footwear,50.20,San Antonio,L,Pink,Winter,3.3,No,Express,None,None,2,PayPal,Annually
+HM000620,42,Female,Cardigan,Clothing,32.06,Denver,M,Red,Fall,4.7,No,Store Pickup,15%,WELCOME10,3,Gift Card,Annually
+HM000621,64,Female,Basic T-Shirt,Clothing,20.07,Los Angeles,L,Black,Fall,4.8,Yes,Standard,15%,SUMMER20,10,Gift Card,Monthly
+HM000622,60,Male,Bomber Jacket,Outerwear,110.92,Boston,M,Black,Summer,4.2,No,Next Day,15%,FREESHIP,2,Debit Card,Annually
+HM000623,60,Female,Boots,Footwear,87.76,Miami,XXL,Beige,Spring,3.7,No,Next Day,None,None,1,Debit Card,Rarely
+HM000624,36,Male,Handbag,Accessories,22.21,Jacksonville,One Size,Pink,Spring,3.2,Yes,Store Pickup,None,None,1,Klarna,Rarely
+HM000625,52,Male,Leggings,Clothing,16.68,Chicago,S,Cream,Summer,4.8,No,Next Day,None,None,5,Klarna,Quarterly
+HM000626,63,Female,Dress,Clothing,21.05,San Diego,XL,Red,Summer,4.2,No,Standard,10%,MEMBER25,11,PayPal,Monthly
+HM000627,20,Male,Sandals,Footwear,63.77,Houston,XL,Blue,Spring,1.4,No,Store Pickup,None,None,2,PayPal,Annually
+HM000628,53,Male,Winter Coat,Outerwear,104.58,Jacksonville,XS,Red,Fall,3.3,No,Store Pickup,None,None,9,Klarna,Quarterly
+HM000629,52,Female,Belt,Accessories,11.68,Austin,One Size,Gray,Fall,4.1,Yes,Express,None,None,23,Klarna,Weekly
+HM000630,22,Male,Ankle Boots,Footwear,82.72,Portland,XL,Yellow,Winter,3.2,No,Standard,30%,FLASH25,5,Debit Card,Quarterly
+HM000631,52,Female,Chinos,Clothing,66.14,Seattle,L,Navy,Fall,4.0,No,Express,None,None,0,PayPal,Rarely
+HM000632,63,Male,Belt,Accessories,14.94,San Diego,One Size,Cream,Fall,3.2,No,Next Day,25%,FREESHIP,5,Google Pay,Quarterly
+HM000633,43,Male,Sweater,Clothing,14.30,Las Vegas,L,Brown,Spring,3.1,No,Express,15%,FALL15,5,PayPal,Quarterly
+HM000634,32,Female,Belt,Accessories,29.38,Detroit,One Size,Purple,Winter,3.1,Yes,Standard,None,None,18,Gift Card,Bi-weekly
+HM000635,29,Female,Scarf,Accessories,28.51,Detroit,One Size,Gray,Summer,3.0,Yes,Standard,None,None,10,Klarna,Monthly
+HM000636,58,Male,Parka,Outerwear,167.00,San Diego,XS,Navy,Summer,4.7,Yes,Express,None,None,14,Apple Pay,Monthly
+HM000637,50,Male,Bomber Jacket,Outerwear,104.11,Los Angeles,XXL,Olive,Winter,3.6,No,Store Pickup,30%,NEWYEAR15,6,Debit Card,Quarterly
+HM000638,18,Male,Loafers,Footwear,79.35,Boston,S,Purple,Spring,2.5,No,Store Pickup,None,None,12,Credit Card,Monthly
+HM000639,47,Male,Flats,Footwear,53.43,Las Vegas,XXL,Olive,Spring,3.6,No,Express,30%,SAVE30,0,Credit Card,Rarely
+HM000640,58,Male,Parka,Outerwear,176.51,Miami,M,Purple,Spring,4.7,Yes,Store Pickup,None,None,24,Google Pay,Weekly
+HM000641,27,Male,Jeans,Clothing,41.98,Houston,XXL,White,Spring,4.8,No,Standard,15%,STUDENT10,6,Google Pay,Quarterly
+HM000642,57,Male,Watch,Accessories,35.14,Chicago,One Size,Black,Spring,4.8,No,Express,10%,FLASH25,5,Gift Card,Quarterly
+HM000643,25,Male,Loafers,Footwear,87.49,San Antonio,M,Red,Fall,1.1,No,Standard,None,None,12,Apple Pay,Monthly
+HM000644,41,Male,Jewelry,Accessories,37.28,Denver,One Size,Purple,Spring,4.0,No,Express,10%,MEMBER25,3,Apple Pay,Annually
+HM000645,67,Male,Backpack,Accessories,18.26,Boston,One Size,Cream,Summer,3.7,Yes,Store Pickup,None,None,4,Apple Pay,Annually
+HM000646,35,Male,Parka,Outerwear,65.07,Detroit,S,Blue,Summer,2.2,No,Standard,30%,FLASH25,9,Gift Card,Quarterly
+HM000647,53,Female,Bag,Accessories,17.12,Detroit,One Size,Purple,Spring,1.4,Yes,Next Day,15%,SUMMER20,22,Debit Card,Weekly
+HM000648,33,Male,Blazer,Clothing,67.26,Austin,L,Black,Summer,3.5,No,Next Day,None,None,4,Klarna,Annually
+HM000649,46,Male,Sandals,Footwear,90.10,San Antonio,XXL,Olive,Spring,3.5,Yes,Standard,10%,FALL15,21,Google Pay,Weekly
+HM000650,53,Male,Denim Jacket,Outerwear,112.58,Atlanta,L,Black,Winter,4.9,No,Express,25%,MEMBER25,0,Klarna,Rarely
+HM000651,50,Female,Puffer Jacket,Outerwear,68.60,San Diego,S,White,Summer,3.3,No,Standard,None,None,5,Credit Card,Quarterly
+HM000652,46,Male,Cardigan,Clothing,18.49,Philadelphia,S,Black,Fall,4.4,Yes,Next Day,30%,NEWYEAR15,19,Gift Card,Bi-weekly
+HM000653,32,Female,Boots,Footwear,71.10,Philadelphia,M,Pink,Summer,3.6,No,Store Pickup,15%,STUDENT10,3,Apple Pay,Annually
+HM000654,52,Female,Parka,Outerwear,161.84,Chicago,XS,Blue,Spring,3.4,Yes,Express,None,None,1,PayPal,Rarely
+HM000655,61,Female,Wallet,Accessories,13.86,Los Angeles,One Size,Blue,Fall,2.0,Yes,Express,None,None,21,Debit Card,Weekly
+HM000656,56,Female,Sandals,Footwear,86.32,Atlanta,S,Brown,Fall,4.2,No,Store Pickup,None,None,4,Debit Card,Annually
+HM000657,59,Female,Basic T-Shirt,Clothing,19.91,San Diego,S,Green,Spring,3.3,No,Express,None,None,14,Google Pay,Monthly
+HM000658,47,Male,Ankle Boots,Footwear,57.89,Detroit,XS,Blue,Summer,4.8,No,Next Day,20%,MEMBER25,13,Apple Pay,Monthly
+HM000659,51,Male,Boots,Footwear,66.58,Atlanta,XS,Blue,Spring,2.0,No,Express,25%,MEMBER25,11,Debit Card,Monthly
+HM000660,38,Female,Joggers,Clothing,60.64,Miami,M,Olive,Spring,3.0,No,Express,None,None,1,Klarna,Rarely
+HM000661,42,Male,Leggings,Clothing,67.18,Austin,XS,Red,Spring,1.9,No,Next Day,10%,MEMBER25,2,Klarna,Annually
+HM000662,20,Male,Joggers,Clothing,38.13,Los Angeles,M,Beige,Summer,4.7,No,Store Pickup,25%,FLASH25,10,Gift Card,Monthly
+HM000663,65,Female,Jacket,Clothing,18.21,Phoenix,XS,Green,Spring,4.5,No,Standard,None,None,1,Debit Card,Rarely
+HM000664,39,Female,Jewelry,Accessories,46.13,San Jose,One Size,Beige,Winter,3.2,Yes,Store Pickup,None,None,0,Google Pay,Rarely
+HM000665,31,Female,Scarf,Accessories,16.37,Los Angeles,One Size,Black,Summer,4.5,Yes,Next Day,15%,FALL15,17,Klarna,Bi-weekly
+HM000666,66,Male,Hat,Accessories,34.68,Detroit,One Size,Red,Summer,4.7,Yes,Next Day,None,None,7,Klarna,Quarterly
+HM000667,35,Male,Puffer Jacket,Outerwear,98.34,Detroit,M,White,Summer,4.7,No,Store Pickup,None,None,9,Debit Card,Quarterly
+HM000668,54,Female,Loafers,Footwear,99.49,Atlanta,M,Purple,Summer,4.0,No,Express,15%,SUMMER20,3,PayPal,Annually
+HM000669,57,Male,Sandals,Footwear,54.59,Las Vegas,M,Green,Fall,4.1,No,Express,None,None,0,Apple Pay,Rarely
+HM000670,66,Female,Joggers,Clothing,36.78,San Diego,L,Burgundy,Spring,3.6,No,Next Day,25%,FALL15,6,Google Pay,Quarterly
+HM000671,25,Male,Running Shoes,Footwear,117.20,New York,XL,Pink,Fall,1.5,No,Express,None,None,4,Debit Card,Annually
+HM000672,64,Male,Chinos,Clothing,74.45,Phoenix,XL,Green,Fall,4.4,No,Store Pickup,None,None,7,Klarna,Quarterly
+HM000673,33,Male,Sunglasses,Accessories,9.12,Philadelphia,One Size,Navy,Fall,4.7,No,Express,10%,MEMBER25,11,Credit Card,Monthly
+HM000674,45,Female,Winter Coat,Outerwear,57.86,Jacksonville,M,Gray,Summer,3.7,No,Standard,10%,WELCOME10,0,PayPal,Rarely
+HM000675,27,Male,Boots,Footwear,80.92,Portland,M,Purple,Fall,3.0,No,Store Pickup,None,None,6,Credit Card,Quarterly
+HM000676,36,Female,Skirt,Clothing,72.45,Chicago,S,Brown,Spring,4.1,No,Next Day,None,None,12,Debit Card,Monthly
+HM000677,64,Male,Denim Jacket,Outerwear,76.97,Los Angeles,L,White,Spring,3.3,Yes,Store Pickup,None,None,12,Debit Card,Monthly
+HM000678,49,Male,Loafers,Footwear,51.72,Houston,XL,Olive,Summer,3.6,Yes,Next Day,20%,SAVE30,11,Debit Card,Monthly
+HM000679,27,Male,Sneakers,Footwear,76.47,Jacksonville,XS,Purple,Fall,4.9,No,Next Day,None,None,7,Google Pay,Quarterly
+HM000680,22,Female,Jewelry,Accessories,33.44,San Diego,One Size,Burgundy,Winter,4.4,Yes,Store Pickup,20%,FALL15,4,Klarna,Annually
+HM000681,41,Male,Bag,Accessories,38.39,Dallas,One Size,Purple,Summer,4.5,No,Next Day,15%,FREESHIP,10,PayPal,Monthly
+HM000682,30,Female,Handbag,Accessories,14.83,Phoenix,One Size,Black,Summer,3.3,No,Store Pickup,10%,WELCOME10,11,Klarna,Monthly
+HM000683,38,Male,Jacket,Clothing,31.03,Denver,XS,Red,Winter,1.9,Yes,Standard,30%,SAVE30,20,Apple Pay,Weekly
+HM000684,41,Male,Parka,Outerwear,140.30,Las Vegas,XL,Pink,Fall,4.4,No,Store Pickup,20%,NEWYEAR15,11,Google Pay,Monthly
+HM000685,32,Female,Sneakers,Footwear,42.31,San Jose,XS,Gray,Winter,4.5,Yes,Standard,20%,NEWYEAR15,12,Gift Card,Monthly
+HM000686,19,Male,Polo Shirt,Clothing,47.42,Las Vegas,L,Brown,Spring,4.8,No,Express,25%,WELCOME10,0,Klarna,Rarely
+HM000687,48,Female,Running Shoes,Footwear,32.94,Austin,L,Olive,Spring,5.0,Yes,Standard,20%,FLASH25,21,Debit Card,Weekly
+HM000688,19,Female,Skirt,Clothing,55.83,Seattle,S,Olive,Winter,3.2,No,Next Day,10%,MEMBER25,11,PayPal,Monthly
+HM000689,25,Male,Scarf,Accessories,11.18,Houston,One Size,Gray,Fall,3.5,No,Express,None,None,3,Klarna,Annually
+HM000690,46,Male,Tank Top,Clothing,44.64,Jacksonville,XL,Purple,Winter,4.7,No,Express,None,None,11,Debit Card,Monthly
+HM000691,29,Male,Denim Jacket,Outerwear,95.99,Los Angeles,L,Red,Spring,4.0,No,Next Day,10%,FLASH25,0,Apple Pay,Rarely
+HM000692,32,Male,Coat,Clothing,28.27,Miami,S,Green,Spring,3.2,No,Express,10%,FALL15,0,Credit Card,Rarely
+HM000693,33,Female,Leggings,Clothing,62.80,San Jose,XL,Burgundy,Winter,3.4,No,Store Pickup,10%,SUMMER20,6,Gift Card,Quarterly
+HM000694,67,Male,Ankle Boots,Footwear,78.36,Las Vegas,XXL,Beige,Fall,1.2,No,Next Day,None,None,8,Google Pay,Quarterly
+HM000695,36,Male,Backpack,Accessories,22.39,Phoenix,One Size,Beige,Winter,4.4,No,Standard,25%,STUDENT10,7,Apple Pay,Quarterly
+HM000696,19,Female,Winter Coat,Outerwear,124.55,Seattle,L,Gray,Summer,4.2,No,Store Pickup,20%,SUMMER20,0,Klarna,Rarely
+HM000697,43,Female,Blazer,Clothing,10.94,Dallas,L,Pink,Spring,4.1,No,Express,30%,FREESHIP,14,Apple Pay,Monthly
+HM000698,57,Female,Trench Coat,Outerwear,72.17,Dallas,XL,Yellow,Winter,3.6,Yes,Next Day,10%,STUDENT10,24,Debit Card,Weekly
+HM000699,55,Male,Belt,Accessories,34.17,Houston,One Size,Blue,Winter,4.0,No,Standard,30%,FREESHIP,7,Apple Pay,Quarterly
+HM000700,60,Female,Sweater,Clothing,47.23,Austin,XS,Purple,Winter,4.2,Yes,Standard,15%,STUDENT10,13,Klarna,Monthly
+HM000701,50,Male,Running Shoes,Footwear,32.19,Philadelphia,XS,Beige,Summer,3.7,No,Next Day,30%,FALL15,2,Apple Pay,Annually
+HM000702,67,Female,Heels,Footwear,83.04,San Antonio,S,Brown,Winter,3.6,Yes,Standard,30%,MEMBER25,0,Apple Pay,Rarely
+HM000703,67,Male,Jacket,Clothing,16.63,Houston,L,Pink,Spring,4.5,Yes,Next Day,25%,STUDENT10,7,Debit Card,Quarterly
+HM000704,62,Male,Basic T-Shirt,Clothing,27.50,New York,L,Cream,Winter,3.1,No,Standard,None,None,6,Google Pay,Quarterly
+HM000705,66,Female,Heels,Footwear,112.16,Austin,S,Beige,Fall,3.9,No,Express,None,None,0,Apple Pay,Rarely
+HM000706,67,Female,Wallet,Accessories,30.02,San Jose,One Size,White,Spring,4.5,No,Store Pickup,25%,NEWYEAR15,13,Apple Pay,Monthly
+HM000707,62,Female,Basic T-Shirt,Clothing,16.18,Jacksonville,XS,Blue,Winter,3.5,No,Express,None,None,11,Klarna,Monthly
+HM000708,51,Male,Parka,Outerwear,140.37,Miami,XL,Olive,Spring,1.0,Yes,Standard,None,None,8,Gift Card,Quarterly
+HM000709,20,Female,Polo Shirt,Clothing,27.45,Los Angeles,XXL,Green,Fall,3.5,No,Next Day,20%,FREESHIP,9,Debit Card,Quarterly
+HM000710,53,Female,Watch,Accessories,19.86,Houston,One Size,Green,Fall,3.4,Yes,Store Pickup,None,None,21,Credit Card,Weekly
+HM000711,36,Female,Jewelry,Accessories,15.96,Chicago,One Size,Red,Winter,3.0,No,Standard,30%,FLASH25,10,Debit Card,Monthly
+HM000712,41,Female,Jewelry,Accessories,18.76,Philadelphia,One Size,Pink,Spring,4.9,Yes,Standard,None,None,19,Credit Card,Bi-weekly
+HM000713,36,Male,Jeans,Clothing,33.70,Phoenix,XL,Cream,Spring,3.5,No,Express,None,None,11,Debit Card,Monthly
+HM000714,42,Female,Joggers,Clothing,59.68,San Antonio,XXL,White,Spring,3.3,Yes,Standard,None,None,7,Klarna,Quarterly
+HM000715,58,Female,Basic T-Shirt,Clothing,68.63,Boston,L,Green,Summer,2.3,Yes,Store Pickup,None,None,20,Credit Card,Weekly
+HM000716,37,Male,Handbag,Accessories,23.99,Denver,One Size,Burgundy,Winter,3.7,Yes,Next Day,30%,MEMBER25,0,Klarna,Rarely
+HM000717,52,Female,Parka,Outerwear,51.11,Seattle,XL,Black,Winter,3.9,No,Next Day,20%,SAVE30,4,PayPal,Annually
+HM000718,31,Male,Denim Jacket,Outerwear,76.48,New York,L,Gray,Winter,4.3,No,Standard,None,None,12,PayPal,Monthly
+HM000719,40,Male,Denim Jacket,Outerwear,74.19,Boston,XL,Brown,Spring,3.7,No,Express,None,None,7,Apple Pay,Quarterly
+HM000720,35,Female,Sunglasses,Accessories,13.92,Denver,One Size,Cream,Winter,3.3,No,Express,None,None,12,Apple Pay,Monthly
+HM000721,28,Female,Blazer,Clothing,28.99,New York,M,Gray,Summer,4.0,No,Store Pickup,15%,STUDENT10,5,Klarna,Quarterly
+HM000722,19,Male,Bomber Jacket,Outerwear,76.30,San Jose,XS,Olive,Summer,4.0,Yes,Store Pickup,None,None,23,PayPal,Weekly
+HM000723,36,Male,Sneakers,Footwear,32.69,Seattle,M,Brown,Spring,1.4,No,Next Day,30%,MEMBER25,14,Apple Pay,Monthly
+HM000724,25,Female,Cardigan,Clothing,51.70,Dallas,XL,Brown,Spring,4.5,Yes,Store Pickup,None,None,7,Google Pay,Quarterly
+HM000725,33,Male,Flats,Footwear,47.02,San Antonio,XXL,White,Winter,4.0,Yes,Express,None,None,22,Credit Card,Weekly
+HM000726,19,Male,Dress,Clothing,29.12,San Antonio,XL,Cream,Fall,1.2,Yes,Standard,None,None,11,Debit Card,Monthly
+HM000727,58,Male,Winter Coat,Outerwear,104.62,Las Vegas,XL,Beige,Spring,3.0,No,Store Pickup,None,None,7,Google Pay,Quarterly
+HM000728,43,Male,Coat,Clothing,48.89,Atlanta,M,Purple,Winter,3.5,Yes,Standard,15%,MEMBER25,4,Apple Pay,Annually
+HM000729,34,Female,Winter Coat,Outerwear,63.24,Atlanta,M,Red,Summer,1.6,No,Store Pickup,25%,STUDENT10,11,PayPal,Monthly
+HM000730,29,Male,Hat,Accessories,35.97,Dallas,One Size,Green,Summer,1.9,Yes,Standard,None,None,17,Google Pay,Bi-weekly
+HM000731,50,Male,Parka,Outerwear,96.08,Denver,M,Navy,Summer,5.0,Yes,Store Pickup,None,None,0,Klarna,Rarely
+HM000732,49,Male,Cardigan,Clothing,64.73,Philadelphia,XL,Blue,Winter,4.9,No,Store Pickup,None,None,11,Google Pay,Monthly
+HM000733,47,Female,Loafers,Footwear,75.12,Detroit,S,Black,Summer,3.2,Yes,Next Day,None,None,8,Google Pay,Quarterly
+HM000734,42,Male,Boots,Footwear,71.86,San Diego,XS,Blue,Fall,4.2,No,Express,30%,FLASH25,5,Credit Card,Quarterly
+HM000735,33,Female,Flats,Footwear,45.67,Denver,S,Olive,Summer,3.7,Yes,Standard,20%,STUDENT10,12,Gift Card,Monthly
+HM000736,44,Male,Tank Top,Clothing,17.32,New York,XS,Brown,Summer,3.2,No,Store Pickup,30%,FLASH25,13,Klarna,Monthly
+HM000737,27,Male,Handbag,Accessories,8.97,Phoenix,One Size,Black,Fall,3.2,No,Next Day,15%,STUDENT10,9,Gift Card,Quarterly
+HM000738,42,Female,Scarf,Accessories,33.22,Phoenix,One Size,Black,Winter,4.4,Yes,Store Pickup,None,None,13,Google Pay,Monthly
+HM000739,21,Male,Flats,Footwear,58.28,Portland,XXL,Yellow,Summer,3.7,Yes,Standard,None,None,20,Klarna,Weekly
+HM000740,65,Male,Wallet,Accessories,18.74,Las Vegas,One Size,Cream,Fall,3.2,No,Express,None,None,10,Credit Card,Monthly
+HM000741,42,Female,Flats,Footwear,94.74,Philadelphia,XL,Brown,Summer,5.0,Yes,Next Day,None,None,22,Google Pay,Weekly
+HM000742,31,Female,Sunglasses,Accessories,43.67,Los Angeles,One Size,Gray,Fall,1.4,No,Next Day,None,None,13,Apple Pay,Monthly
+HM000743,29,Female,Flats,Footwear,88.51,Miami,XXL,Cream,Spring,4.6,Yes,Next Day,20%,WELCOME10,19,PayPal,Bi-weekly
+HM000744,46,Female,Watch,Accessories,18.77,Houston,One Size,Gray,Summer,2.1,Yes,Store Pickup,None,None,19,Klarna,Bi-weekly
+HM000745,56,Female,Blazer,Clothing,32.29,San Jose,M,Green,Summer,5.0,No,Next Day,None,None,3,Gift Card,Annually
+HM000746,57,Male,Jewelry,Accessories,28.41,Boston,One Size,White,Fall,4.6,Yes,Store Pickup,25%,STUDENT10,11,Klarna,Monthly
+HM000747,53,Female,Sweater,Clothing,61.51,Phoenix,XL,Navy,Winter,4.1,No,Next Day,10%,SAVE30,10,Apple Pay,Monthly
+HM000748,26,Male,Dress,Clothing,14.63,Las Vegas,S,Yellow,Summer,3.7,No,Next Day,10%,MEMBER25,4,Klarna,Annually
+HM000749,37,Male,Backpack,Accessories,24.41,Denver,One Size,Gray,Fall,4.6,No,Standard,None,None,14,Apple Pay,Monthly
+HM000750,64,Male,Watch,Accessories,33.56,Philadelphia,One Size,White,Spring,3.3,Yes,Next Day,25%,SUMMER20,5,Gift Card,Quarterly
+HM000751,22,Male,Trench Coat,Outerwear,132.39,Atlanta,L,Olive,Spring,4.9,Yes,Store Pickup,25%,SUMMER20,1,Credit Card,Rarely
+HM000752,24,Female,Wallet,Accessories,12.00,Philadelphia,One Size,White,Winter,3.3,Yes,Standard,20%,NEWYEAR15,2,Debit Card,Annually
+HM000753,58,Male,Dress,Clothing,13.76,Los Angeles,M,Green,Summer,3.7,Yes,Next Day,15%,FALL15,12,Klarna,Monthly
+HM000754,65,Male,Joggers,Clothing,63.69,Atlanta,XL,Black,Spring,4.8,Yes,Next Day,None,None,18,Gift Card,Bi-weekly
+HM000755,67,Male,Denim Jacket,Outerwear,79.24,New York,S,Blue,Spring,2.5,No,Express,None,None,2,PayPal,Annually
+HM000756,58,Female,Dress,Clothing,30.09,New York,XS,Pink,Winter,4.2,No,Standard,10%,FREESHIP,3,Google Pay,Annually
+HM000757,39,Male,Blazer,Clothing,17.72,Miami,M,Olive,Fall,3.6,Yes,Next Day,10%,MEMBER25,23,Google Pay,Weekly
+HM000758,46,Female,Puffer Jacket,Outerwear,67.13,San Jose,XL,Green,Spring,3.9,No,Store Pickup,15%,FREESHIP,8,Apple Pay,Quarterly
+HM000759,42,Male,Trench Coat,Outerwear,149.81,Atlanta,XS,Beige,Winter,4.5,Yes,Store Pickup,15%,FREESHIP,12,Gift Card,Monthly
+HM000760,35,Female,Trench Coat,Outerwear,75.21,Portland,XXL,Black,Winter,3.9,No,Standard,None,None,8,Klarna,Quarterly
+HM000761,36,Female,Polo Shirt,Clothing,63.24,Los Angeles,L,White,Fall,3.7,Yes,Store Pickup,15%,MEMBER25,21,Gift Card,Weekly
+HM000762,35,Female,Sneakers,Footwear,78.69,Philadelphia,XXL,Cream,Spring,4.1,Yes,Express,10%,STUDENT10,1,Apple Pay,Rarely
+HM000763,39,Female,Sneakers,Footwear,106.56,Los Angeles,S,Burgundy,Summer,1.8,Yes,Store Pickup,None,None,18,Google Pay,Bi-weekly
+HM000764,65,Male,Blazer,Clothing,32.61,San Jose,S,Green,Spring,3.2,No,Next Day,20%,FALL15,1,PayPal,Rarely
+HM000765,37,Male,Blazer,Clothing,58.26,Jacksonville,L,Red,Spring,4.5,No,Next Day,10%,SAVE30,3,Klarna,Annually
+HM000766,32,Male,Running Shoes,Footwear,94.91,Boston,M,Yellow,Winter,4.6,No,Next Day,None,None,5,Apple Pay,Quarterly
+HM000767,24,Female,Winter Coat,Outerwear,89.76,Phoenix,XS,Blue,Spring,4.0,No,Next Day,None,None,2,Klarna,Annually
+HM000768,28,Male,Leggings,Clothing,33.61,Portland,XS,Green,Spring,3.8,No,Store Pickup,None,None,8,Debit Card,Quarterly
+HM000769,23,Female,Blazer,Clothing,66.42,Miami,XS,Pink,Summer,4.7,Yes,Standard,None,None,9,Apple Pay,Quarterly
+HM000770,56,Male,Puffer Jacket,Outerwear,88.38,Phoenix,M,Purple,Summer,3.3,No,Standard,15%,STUDENT10,10,Debit Card,Monthly
+HM000771,29,Male,Denim Jacket,Outerwear,57.30,Denver,XL,Pink,Winter,3.4,Yes,Standard,15%,MEMBER25,7,Apple Pay,Quarterly
+HM000772,21,Male,Denim Jacket,Outerwear,112.53,Detroit,L,Olive,Spring,3.9,No,Store Pickup,None,None,2,Debit Card,Annually
+HM000773,63,Male,Dress,Clothing,39.61,Atlanta,XXL,Olive,Winter,3.0,No,Store Pickup,15%,SUMMER20,12,Gift Card,Monthly
+HM000774,39,Male,Flats,Footwear,110.07,Denver,M,Beige,Fall,1.1,Yes,Express,None,None,10,Credit Card,Monthly
+HM000775,34,Male,Sneakers,Footwear,61.28,Miami,L,Burgundy,Fall,3.2,No,Standard,20%,SAVE30,4,Google Pay,Annually
+HM000776,21,Male,Running Shoes,Footwear,71.65,New York,XS,Olive,Winter,2.3,Yes,Express,None,None,6,Google Pay,Quarterly
+HM000777,46,Male,Sunglasses,Accessories,28.48,San Diego,One Size,Olive,Summer,3.8,No,Express,15%,WELCOME10,8,Apple Pay,Quarterly
+HM000778,64,Male,Denim Jacket,Outerwear,93.03,Jacksonville,XXL,Pink,Summer,1.7,Yes,Standard,None,None,16,Debit Card,Bi-weekly
+HM000779,39,Female,Heels,Footwear,77.61,Austin,M,Cream,Winter,4.1,Yes,Standard,None,None,11,Debit Card,Monthly
+HM000780,65,Female,Scarf,Accessories,13.12,Dallas,One Size,Red,Summer,3.9,Yes,Standard,None,None,24,Credit Card,Weekly
+HM000781,25,Male,Hat,Accessories,33.36,Detroit,One Size,Gray,Spring,3.8,No,Next Day,20%,NEWYEAR15,9,Credit Card,Quarterly
+HM000782,19,Male,Denim Jacket,Outerwear,119.28,Las Vegas,M,Brown,Fall,4.4,Yes,Express,None,None,17,Apple Pay,Bi-weekly
+HM000783,46,Female,Sweater,Clothing,26.96,Austin,XS,Gray,Summer,3.9,Yes,Store Pickup,20%,FREESHIP,12,PayPal,Monthly
+HM000784,49,Male,Trench Coat,Outerwear,127.24,Denver,XXL,White,Winter,3.3,No,Standard,10%,SAVE30,0,Google Pay,Rarely
+HM000785,28,Male,Loafers,Footwear,44.41,Denver,XS,White,Winter,4.3,Yes,Express,30%,FALL15,19,Google Pay,Bi-weekly
+HM000786,59,Female,Bomber Jacket,Outerwear,128.14,Atlanta,XL,Beige,Winter,4.2,No,Standard,20%,STUDENT10,6,Credit Card,Quarterly
+HM000787,31,Male,Puffer Jacket,Outerwear,71.33,Atlanta,XS,Red,Fall,3.9,Yes,Standard,20%,MEMBER25,19,Google Pay,Bi-weekly
+HM000788,25,Male,Coat,Clothing,61.28,Houston,S,Cream,Winter,1.7,Yes,Express,None,None,13,Google Pay,Monthly
+HM000789,40,Male,Coat,Clothing,17.97,Detroit,L,Burgundy,Summer,2.7,Yes,Express,30%,FALL15,0,Credit Card,Rarely
+HM000790,44,Male,Sneakers,Footwear,81.07,Houston,L,Brown,Winter,3.9,Yes,Next Day,15%,SAVE30,20,Credit Card,Weekly
+HM000791,24,Female,Wallet,Accessories,26.26,San Antonio,One Size,Blue,Fall,4.1,No,Next Day,30%,SAVE30,14,Google Pay,Monthly
+HM000792,48,Male,Tank Top,Clothing,41.02,Houston,XS,Burgundy,Fall,3.2,No,Next Day,15%,FLASH25,5,Credit Card,Quarterly
+HM000793,28,Male,Bag,Accessories,16.77,Dallas,One Size,White,Summer,2.2,No,Express,10%,STUDENT10,0,Apple Pay,Rarely
+HM000794,24,Female,Boots,Footwear,49.45,Chicago,XS,Green,Spring,4.9,Yes,Standard,20%,NEWYEAR15,1,Klarna,Rarely
+HM000795,24,Male,Polo Shirt,Clothing,20.58,Atlanta,XS,Beige,Winter,4.6,No,Next Day,None,None,5,Apple Pay,Quarterly
+HM000796,37,Male,Running Shoes,Footwear,54.66,Seattle,XL,Cream,Winter,2.4,Yes,Next Day,30%,FALL15,5,Klarna,Quarterly
+HM000797,61,Male,Coat,Clothing,30.95,Detroit,S,Beige,Fall,2.1,No,Store Pickup,15%,MEMBER25,0,Apple Pay,Rarely
+HM000798,65,Male,Parka,Outerwear,93.42,Denver,XL,Black,Fall,2.2,No,Next Day,10%,MEMBER25,5,Credit Card,Quarterly
+HM000799,28,Female,Belt,Accessories,11.21,Philadelphia,One Size,Yellow,Winter,3.8,Yes,Store Pickup,None,None,15,Klarna,Bi-weekly
+HM000800,50,Female,Ankle Boots,Footwear,109.60,Philadelphia,XXL,Navy,Summer,2.3,No,Next Day,None,None,12,Google Pay,Monthly
+HM000801,46,Female,Parka,Outerwear,108.19,Houston,XXL,Olive,Fall,5.0,No,Express,None,None,1,Apple Pay,Rarely
+HM000802,30,Female,Bomber Jacket,Outerwear,69.87,Seattle,XS,Blue,Summer,4.7,Yes,Express,20%,STUDENT10,3,Gift Card,Annually
+HM000803,60,Male,Ankle Boots,Footwear,96.66,Houston,S,Red,Fall,3.8,No,Next Day,None,None,0,Klarna,Rarely
+HM000804,46,Male,Handbag,Accessories,26.79,Detroit,One Size,White,Winter,4.1,Yes,Next Day,15%,NEWYEAR15,9,Debit Card,Quarterly
+HM000805,66,Male,Parka,Outerwear,164.62,Dallas,XS,Green,Summer,3.9,No,Next Day,None,None,0,Klarna,Rarely
+HM000806,64,Female,Running Shoes,Footwear,45.33,Houston,M,Brown,Fall,4.6,No,Standard,30%,FREESHIP,6,Klarna,Quarterly
+HM000807,52,Male,Bomber Jacket,Outerwear,45.24,Houston,M,Gray,Summer,4.2,Yes,Next Day,30%,STUDENT10,2,Apple Pay,Annually
+HM000808,18,Male,Bag,Accessories,43.23,Phoenix,One Size,Purple,Fall,3.5,No,Express,None,None,1,Debit Card,Rarely
+HM000809,50,Male,Trench Coat,Outerwear,109.76,San Jose,XXL,Cream,Summer,4.5,Yes,Standard,None,None,22,Klarna,Weekly
+HM000810,52,Male,Winter Coat,Outerwear,139.87,Dallas,XXL,Green,Summer,3.2,Yes,Next Day,15%,SAVE30,9,Credit Card,Quarterly
+HM000811,56,Female,Bomber Jacket,Outerwear,107.21,Houston,XL,Olive,Winter,3.6,No,Store Pickup,20%,WELCOME10,7,PayPal,Quarterly
+HM000812,49,Female,Parka,Outerwear,120.64,Portland,XL,Red,Spring,4.9,Yes,Next Day,None,None,9,Apple Pay,Quarterly
+HM000813,36,Male,Dress,Clothing,55.03,Houston,M,Pink,Spring,5.0,No,Express,25%,SAVE30,8,Google Pay,Quarterly
+HM000814,49,Male,Winter Coat,Outerwear,57.62,Austin,XL,Green,Fall,3.3,Yes,Standard,25%,FREESHIP,8,Credit Card,Quarterly
+HM000815,38,Female,Flats,Footwear,115.73,Seattle,M,Beige,Winter,1.0,No,Standard,None,None,5,Klarna,Quarterly
+HM000816,35,Male,Cardigan,Clothing,57.86,San Antonio,XL,Brown,Spring,4.9,No,Express,None,None,10,Google Pay,Monthly
+HM000817,27,Male,Skirt,Clothing,53.69,Philadelphia,XXL,Olive,Winter,4.8,No,Store Pickup,None,None,0,Credit Card,Rarely
+HM000818,58,Male,Wallet,Accessories,40.76,Miami,One Size,Blue,Spring,4.7,No,Standard,10%,FALL15,3,Apple Pay,Annually
+HM000819,35,Male,Watch,Accessories,40.88,Boston,One Size,Gray,Summer,2.1,No,Standard,15%,NEWYEAR15,0,Google Pay,Rarely
+HM000820,35,Female,Heels,Footwear,90.23,Philadelphia,M,Yellow,Spring,4.3,No,Express,None,None,0,Debit Card,Rarely
+HM000821,49,Female,Trench Coat,Outerwear,51.28,San Jose,XXL,Red,Fall,4.9,Yes,Next Day,20%,SAVE30,4,Credit Card,Annually
+HM000822,19,Female,Leggings,Clothing,22.94,Chicago,L,Navy,Winter,2.4,No,Store Pickup,None,None,5,Google Pay,Quarterly
+HM000823,23,Male,Bomber Jacket,Outerwear,172.56,Denver,XL,Purple,Fall,1.1,No,Express,None,None,5,Google Pay,Quarterly
+HM000824,21,Male,Hoodie,Clothing,65.78,San Antonio,XS,Gray,Winter,4.7,No,Express,None,None,12,Klarna,Monthly
+HM000825,29,Female,Dress,Clothing,13.87,Seattle,XS,Pink,Summer,3.0,Yes,Standard,25%,SUMMER20,23,Google Pay,Weekly
+HM000826,66,Male,Winter Coat,Outerwear,160.86,Houston,XXL,White,Winter,3.0,Yes,Next Day,None,None,9,Klarna,Quarterly
+HM000827,30,Female,Trench Coat,Outerwear,72.18,Los Angeles,S,Pink,Spring,2.3,No,Next Day,None,None,3,Debit Card,Annually
+HM000828,27,Male,Watch,Accessories,33.57,San Antonio,One Size,Purple,Winter,4.2,No,Standard,None,None,7,Debit Card,Quarterly
+HM000829,67,Female,Scarf,Accessories,36.79,Las Vegas,One Size,Red,Winter,4.5,Yes,Express,20%,FLASH25,6,Apple Pay,Quarterly
+HM000830,52,Male,Boots,Footwear,64.30,Jacksonville,S,Beige,Spring,3.2,No,Store Pickup,20%,MEMBER25,5,Google Pay,Quarterly
+HM000831,47,Female,Sunglasses,Accessories,22.04,Atlanta,One Size,Green,Spring,3.2,Yes,Next Day,25%,STUDENT10,14,PayPal,Monthly
+HM000832,50,Male,Denim Jacket,Outerwear,141.06,Dallas,S,Gray,Summer,3.4,No,Next Day,None,None,6,Credit Card,Quarterly
+HM000833,22,Male,Scarf,Accessories,17.58,San Antonio,One Size,Cream,Fall,3.8,No,Standard,30%,WELCOME10,4,Debit Card,Annually
+HM000834,48,Female,Flats,Footwear,86.69,Atlanta,XL,Navy,Winter,4.5,No,Next Day,None,None,8,Credit Card,Quarterly
+HM000835,60,Male,Tank Top,Clothing,47.24,Los Angeles,XS,Navy,Winter,4.0,Yes,Express,25%,FREESHIP,17,Credit Card,Bi-weekly
+HM000836,55,Male,Bomber Jacket,Outerwear,95.53,Chicago,L,Brown,Fall,4.7,No,Express,None,None,12,Credit Card,Monthly
+HM000837,27,Male,Sneakers,Footwear,87.90,Dallas,XXL,White,Winter,4.9,Yes,Standard,10%,FALL15,3,PayPal,Annually
+HM000838,63,Male,Jeans,Clothing,45.09,Dallas,XXL,Green,Spring,4.6,No,Next Day,20%,FALL15,6,PayPal,Quarterly
+HM000839,49,Male,Flats,Footwear,69.59,Jacksonville,M,White,Winter,4.4,Yes,Store Pickup,20%,STUDENT10,1,Google Pay,Rarely
+HM000840,47,Male,Scarf,Accessories,28.15,Denver,One Size,Cream,Summer,3.9,Yes,Standard,15%,WELCOME10,18,Debit Card,Bi-weekly
+HM000841,52,Male,Jewelry,Accessories,21.08,Austin,One Size,Purple,Spring,4.0,No,Store Pickup,10%,NEWYEAR15,6,Apple Pay,Quarterly
+HM000842,60,Female,Backpack,Accessories,17.35,Seattle,One Size,Purple,Summer,2.8,Yes,Next Day,None,None,7,Debit Card,Quarterly
+HM000843,65,Female,Jeans,Clothing,52.25,San Antonio,M,Blue,Winter,3.8,Yes,Next Day,20%,STUDENT10,8,Debit Card,Quarterly
+HM000844,53,Female,Cardigan,Clothing,31.03,Las Vegas,XS,Cream,Spring,4.3,Yes,Standard,15%,MEMBER25,14,PayPal,Monthly
+HM000845,27,Male,Trench Coat,Outerwear,75.40,Seattle,XS,Olive,Summer,4.6,Yes,Express,10%,FREESHIP,1,Debit Card,Rarely
+HM000846,58,Female,Running Shoes,Footwear,81.10,Portland,XL,Pink,Spring,3.7,Yes,Express,30%,WELCOME10,17,Credit Card,Bi-weekly
+HM000847,52,Male,Watch,Accessories,14.00,Philadelphia,One Size,Olive,Spring,3.8,Yes,Next Day,None,None,18,Credit Card,Bi-weekly
+HM000848,29,Male,Heels,Footwear,81.88,Denver,XL,Red,Summer,4.2,No,Store Pickup,15%,FREESHIP,8,PayPal,Quarterly
+HM000849,51,Male,Bomber Jacket,Outerwear,52.47,Las Vegas,XL,Navy,Fall,4.0,No,Next Day,30%,FREESHIP,12,Apple Pay,Monthly
+HM000850,58,Male,Puffer Jacket,Outerwear,74.38,Detroit,XS,White,Winter,4.0,No,Standard,20%,FALL15,12,Gift Card,Monthly
+HM000851,43,Female,Denim Jacket,Outerwear,69.12,San Antonio,XL,Navy,Fall,1.1,Yes,Express,25%,STUDENT10,16,PayPal,Bi-weekly
+HM000852,44,Male,Polo Shirt,Clothing,39.12,New York,L,Red,Fall,3.7,Yes,Next Day,15%,FREESHIP,18,Klarna,Bi-weekly
+HM000853,25,Male,Jewelry,Accessories,33.82,Austin,One Size,Navy,Fall,2.7,Yes,Express,None,None,9,Debit Card,Quarterly
+HM000854,37,Female,Bag,Accessories,12.02,San Diego,One Size,Blue,Fall,2.7,No,Next Day,30%,FLASH25,10,Debit Card,Monthly
+HM000855,59,Female,Handbag,Accessories,11.52,Las Vegas,One Size,Purple,Summer,4.7,Yes,Express,25%,FALL15,23,Gift Card,Weekly
+HM000856,29,Female,Polo Shirt,Clothing,43.75,Houston,XS,Black,Spring,3.9,No,Next Day,None,None,2,Credit Card,Annually
+HM000857,31,Male,Boots,Footwear,53.54,Chicago,S,Burgundy,Summer,3.4,Yes,Next Day,20%,MEMBER25,2,Credit Card,Annually
+HM000858,59,Female,Puffer Jacket,Outerwear,91.80,Dallas,XS,Brown,Summer,4.7,Yes,Store Pickup,25%,STUDENT10,3,Debit Card,Annually
+HM000859,35,Male,Hat,Accessories,11.32,Detroit,One Size,Cream,Winter,3.0,Yes,Next Day,25%,NEWYEAR15,12,Google Pay,Monthly
+HM000860,30,Male,Denim Jacket,Outerwear,105.55,Seattle,M,Navy,Spring,2.2,Yes,Express,25%,NEWYEAR15,3,Credit Card,Annually
+HM000861,47,Male,Heels,Footwear,53.67,Miami,S,Navy,Spring,4.6,No,Standard,20%,FLASH25,7,Credit Card,Quarterly
+HM000862,20,Male,Bag,Accessories,20.86,Portland,One Size,Burgundy,Spring,1.7,Yes,Store Pickup,30%,FALL15,24,Credit Card,Weekly
+HM000863,54,Female,Flats,Footwear,52.21,San Jose,M,Burgundy,Winter,3.8,Yes,Express,30%,MEMBER25,21,Debit Card,Weekly
+HM000864,67,Female,Hat,Accessories,22.87,Boston,One Size,Black,Summer,1.3,Yes,Store Pickup,None,None,16,Klarna,Bi-weekly
+HM000865,24,Male,Parka,Outerwear,157.30,Phoenix,M,Gray,Winter,3.3,No,Store Pickup,10%,WELCOME10,4,Gift Card,Annually
+HM000866,56,Male,Backpack,Accessories,33.13,Dallas,One Size,Cream,Fall,5.0,No,Store Pickup,None,None,9,Google Pay,Quarterly
+HM000867,40,Male,Sandals,Footwear,95.08,Las Vegas,M,Beige,Spring,4.8,No,Standard,None,None,2,Google Pay,Annually
+HM000868,22,Male,Trench Coat,Outerwear,117.70,San Diego,XL,Brown,Summer,4.7,Yes,Next Day,None,None,24,Apple Pay,Weekly
+HM000869,41,Male,Parka,Outerwear,172.33,San Jose,S,Cream,Spring,3.0,No,Express,None,None,12,Credit Card,Monthly
+HM000870,23,Female,Bomber Jacket,Outerwear,68.18,San Diego,XL,Purple,Spring,4.6,Yes,Standard,None,None,10,Google Pay,Monthly
+HM000871,60,Female,Hat,Accessories,16.11,Portland,One Size,Brown,Summer,1.7,Yes,Store Pickup,None,None,16,Klarna,Bi-weekly
+HM000872,25,Male,Winter Coat,Outerwear,107.12,Seattle,M,Brown,Summer,1.1,No,Express,None,None,7,Klarna,Quarterly
+HM000873,45,Male,Ankle Boots,Footwear,80.30,Houston,XL,Red,Winter,1.7,No,Store Pickup,15%,FREESHIP,7,Google Pay,Quarterly
+HM000874,38,Female,Watch,Accessories,11.98,San Jose,One Size,Brown,Summer,3.8,No,Express,15%,MEMBER25,11,PayPal,Monthly
+HM000875,46,Female,Ankle Boots,Footwear,61.43,Jacksonville,M,Yellow,Spring,3.1,No,Next Day,25%,FLASH25,11,Debit Card,Monthly
+HM000876,41,Male,Belt,Accessories,37.43,San Jose,One Size,Burgundy,Winter,4.8,Yes,Store Pickup,None,None,22,Klarna,Weekly
+HM000877,61,Male,Heels,Footwear,71.99,Jacksonville,M,Brown,Summer,3.4,No,Store Pickup,20%,SUMMER20,7,Gift Card,Quarterly
+HM000878,20,Male,Jeans,Clothing,58.08,San Jose,XXL,Pink,Spring,4.9,Yes,Store Pickup,10%,FREESHIP,1,Klarna,Rarely
+HM000879,43,Female,Sweater,Clothing,27.40,Dallas,XXL,Purple,Fall,2.9,Yes,Store Pickup,10%,WELCOME10,17,PayPal,Bi-weekly
+HM000880,51,Female,Jacket,Clothing,29.75,Detroit,L,Brown,Spring,1.1,No,Standard,30%,SAVE30,13,Klarna,Monthly
+HM000881,45,Female,Blazer,Clothing,33.53,Atlanta,XXL,Green,Fall,5.0,No,Standard,20%,FREESHIP,6,Debit Card,Quarterly
+HM000882,35,Female,Heels,Footwear,64.03,Philadelphia,M,Beige,Winter,3.9,Yes,Store Pickup,10%,WELCOME10,9,Gift Card,Quarterly
+HM000883,29,Male,Denim Jacket,Outerwear,94.21,Los Angeles,L,Navy,Fall,3.3,No,Store Pickup,None,None,14,Debit Card,Monthly
+HM000884,63,Female,Running Shoes,Footwear,113.22,Seattle,XS,Yellow,Fall,4.1,Yes,Standard,None,None,2,Apple Pay,Annually
+HM000885,61,Female,Jeans,Clothing,23.03,Jacksonville,S,Gray,Winter,2.4,No,Store Pickup,20%,SUMMER20,2,Google Pay,Annually
+HM000886,66,Female,Heels,Footwear,109.63,Phoenix,XXL,Beige,Summer,3.7,Yes,Express,None,None,24,Google Pay,Weekly
+HM000887,46,Female,Wallet,Accessories,23.40,Philadelphia,One Size,Blue,Fall,3.7,Yes,Standard,15%,FALL15,20,Klarna,Weekly
+HM000888,41,Female,Tank Top,Clothing,13.70,San Antonio,M,Burgundy,Summer,1.6,Yes,Standard,20%,WELCOME10,24,Google Pay,Weekly
+HM000889,66,Male,Loafers,Footwear,73.71,Portland,XXL,Beige,Winter,4.3,No,Next Day,20%,NEWYEAR15,3,Klarna,Annually
+HM000890,51,Male,Tank Top,Clothing,68.39,Jacksonville,L,Purple,Summer,2.0,Yes,Next Day,None,None,21,PayPal,Weekly
+HM000891,56,Female,Parka,Outerwear,168.54,Seattle,M,Black,Spring,2.5,Yes,Express,None,None,18,Debit Card,Bi-weekly
+HM000892,55,Female,Jewelry,Accessories,13.03,Houston,One Size,Red,Summer,3.1,No,Standard,None,None,0,Apple Pay,Rarely
+HM000893,20,Female,Puffer Jacket,Outerwear,88.96,Austin,XL,Beige,Summer,3.9,No,Next Day,15%,FREESHIP,13,Debit Card,Monthly
+HM000894,30,Male,Sunglasses,Accessories,11.79,Austin,One Size,Olive,Fall,3.6,Yes,Store Pickup,20%,NEWYEAR15,16,PayPal,Bi-weekly
+HM000895,35,Female,Watch,Accessories,12.91,San Diego,One Size,Beige,Spring,3.6,No,Next Day,20%,NEWYEAR15,10,Credit Card,Monthly
+HM000896,62,Female,Puffer Jacket,Outerwear,106.46,Chicago,XL,Purple,Winter,4.4,Yes,Next Day,None,None,11,Credit Card,Monthly
+HM000897,20,Male,Bag,Accessories,16.10,Boston,One Size,Gray,Winter,4.2,Yes,Standard,None,None,19,PayPal,Bi-weekly
+HM000898,30,Male,Sunglasses,Accessories,16.31,Dallas,One Size,Navy,Fall,3.4,No,Express,None,None,14,Apple Pay,Monthly
+HM000899,25,Male,Polo Shirt,Clothing,19.90,Austin,XL,Beige,Fall,4.8,No,Next Day,10%,NEWYEAR15,1,PayPal,Rarely
+HM000900,22,Male,Cardigan,Clothing,35.14,San Antonio,S,Beige,Winter,4.6,No,Express,10%,SUMMER20,5,Klarna,Quarterly
+HM000901,28,Male,Parka,Outerwear,84.21,Seattle,S,Burgundy,Summer,3.6,No,Express,10%,STUDENT10,8,Klarna,Quarterly
+HM000902,46,Female,Tank Top,Clothing,40.69,Seattle,M,Blue,Winter,4.6,Yes,Standard,None,None,4,Gift Card,Annually
+HM000903,45,Female,Watch,Accessories,22.35,San Diego,One Size,Red,Summer,3.6,No,Store Pickup,30%,FREESHIP,9,Apple Pay,Quarterly
+HM000904,42,Male,Winter Coat,Outerwear,89.49,Portland,XL,Brown,Fall,3.0,No,Express,20%,FREESHIP,3,Gift Card,Annually
+HM000905,61,Male,Trench Coat,Outerwear,74.10,Austin,M,Yellow,Spring,4.6,No,Store Pickup,None,None,8,Debit Card,Quarterly
+HM000906,22,Male,Boots,Footwear,105.10,Philadelphia,XS,Gray,Spring,4.4,No,Express,10%,STUDENT10,13,PayPal,Monthly
+HM000907,42,Male,Puffer Jacket,Outerwear,46.34,Seattle,L,White,Spring,3.2,Yes,Store Pickup,25%,FALL15,8,Klarna,Quarterly
+HM000908,43,Female,Blazer,Clothing,52.95,Detroit,M,Cream,Winter,2.1,Yes,Standard,15%,SUMMER20,3,Klarna,Annually
+HM000909,53,Female,Sandals,Footwear,34.09,New York,S,Green,Summer,3.0,No,Next Day,15%,STUDENT10,8,Credit Card,Quarterly
+HM000910,58,Male,Heels,Footwear,69.73,Miami,L,Purple,Spring,2.9,No,Next Day,25%,FLASH25,11,Apple Pay,Monthly
+HM000911,49,Male,Jacket,Clothing,14.08,Phoenix,XXL,Blue,Summer,3.4,Yes,Store Pickup,25%,SUMMER20,11,Gift Card,Monthly
+HM000912,36,Male,Chinos,Clothing,66.99,Denver,XXL,Gray,Summer,3.5,Yes,Express,None,None,22,Gift Card,Weekly
+HM000913,65,Female,Puffer Jacket,Outerwear,167.00,Phoenix,XXL,Yellow,Winter,1.3,Yes,Store Pickup,None,None,19,Apple Pay,Bi-weekly
+HM000914,21,Male,Trench Coat,Outerwear,118.08,Los Angeles,L,Olive,Winter,3.6,Yes,Store Pickup,None,None,8,Debit Card,Quarterly
+HM000915,25,Male,Wallet,Accessories,36.84,New York,One Size,Cream,Summer,4.3,No,Express,None,None,2,Debit Card,Annually
+HM000916,36,Male,Jacket,Clothing,31.56,Austin,XXL,Burgundy,Fall,4.4,No,Next Day,None,None,7,PayPal,Quarterly
+HM000917,50,Female,Puffer Jacket,Outerwear,128.20,Phoenix,M,Cream,Winter,1.4,No,Express,10%,NEWYEAR15,3,Google Pay,Annually
+HM000918,51,Male,Trench Coat,Outerwear,85.11,Austin,L,Brown,Winter,4.1,Yes,Standard,30%,FREESHIP,3,Klarna,Annually
+HM000919,18,Male,Flats,Footwear,64.97,Philadelphia,S,Red,Fall,1.2,No,Standard,20%,FREESHIP,14,PayPal,Monthly
+HM000920,48,Male,Backpack,Accessories,34.92,Phoenix,One Size,Red,Winter,1.6,Yes,Express,None,None,8,Gift Card,Quarterly
+HM000921,34,Male,Puffer Jacket,Outerwear,82.56,New York,M,Black,Fall,4.9,Yes,Store Pickup,None,None,1,PayPal,Rarely
+HM000922,51,Male,Belt,Accessories,20.61,Portland,One Size,Black,Spring,4.9,No,Next Day,None,None,9,Credit Card,Quarterly
+HM000923,37,Male,Hat,Accessories,21.92,Seattle,One Size,Blue,Summer,3.2,Yes,Standard,30%,FREESHIP,23,Google Pay,Weekly
+HM000924,42,Male,Winter Coat,Outerwear,58.73,Miami,S,Yellow,Spring,3.8,No,Express,30%,WELCOME10,2,Gift Card,Annually
+HM000925,28,Female,Watch,Accessories,30.36,Philadelphia,One Size,Olive,Spring,3.1,Yes,Express,20%,FALL15,10,Credit Card,Monthly
+HM000926,44,Female,Sneakers,Footwear,62.37,Jacksonville,S,Brown,Summer,4.2,No,Store Pickup,None,None,0,Google Pay,Rarely
+HM000927,53,Female,Trench Coat,Outerwear,138.85,Atlanta,XS,White,Summer,3.9,No,Store Pickup,None,None,13,PayPal,Monthly
+HM000928,19,Male,Chinos,Clothing,42.01,Los Angeles,L,Cream,Winter,4.2,No,Store Pickup,10%,STUDENT10,9,Credit Card,Quarterly
+HM000929,35,Male,Ankle Boots,Footwear,69.40,San Jose,XXL,Burgundy,Fall,3.3,Yes,Standard,20%,FLASH25,6,Debit Card,Quarterly
+HM000930,64,Male,Winter Coat,Outerwear,155.47,Las Vegas,XS,White,Spring,3.5,No,Next Day,None,None,9,Credit Card,Quarterly
+HM000931,34,Female,Wallet,Accessories,20.60,Boston,One Size,Green,Spring,4.0,Yes,Express,30%,NEWYEAR15,19,Klarna,Bi-weekly
+HM000932,47,Male,Bomber Jacket,Outerwear,69.04,San Jose,XL,Olive,Fall,4.3,Yes,Store Pickup,15%,SAVE30,23,Debit Card,Weekly
+HM000933,23,Male,Puffer Jacket,Outerwear,134.95,San Antonio,M,Pink,Summer,3.2,No,Express,None,None,0,Credit Card,Rarely
+HM000934,55,Male,Loafers,Footwear,68.60,Jacksonville,XXL,Purple,Winter,4.6,Yes,Next Day,None,None,22,Gift Card,Weekly
+HM000935,42,Female,Jewelry,Accessories,30.80,Houston,One Size,Burgundy,Winter,3.2,No,Store Pickup,25%,SAVE30,5,Google Pay,Quarterly
+HM000936,23,Male,Cardigan,Clothing,17.55,Dallas,XS,Brown,Summer,3.5,No,Express,None,None,4,Debit Card,Annually
+HM000937,28,Male,Winter Coat,Outerwear,63.27,San Jose,L,Pink,Spring,4.7,No,Store Pickup,20%,MEMBER25,1,Klarna,Rarely
+HM000938,36,Female,Backpack,Accessories,29.72,Seattle,One Size,Navy,Winter,3.5,No,Express,30%,SAVE30,3,Klarna,Annually
+HM000939,29,Male,Trench Coat,Outerwear,49.57,Boston,XS,Cream,Summer,2.1,No,Express,25%,SAVE30,14,Gift Card,Monthly
+HM000940,18,Male,Blazer,Clothing,40.44,Denver,XXL,Gray,Spring,3.0,No,Express,15%,NEWYEAR15,14,PayPal,Monthly
+HM000941,25,Female,Running Shoes,Footwear,55.70,San Jose,XXL,Red,Winter,3.6,Yes,Next Day,30%,SAVE30,14,Credit Card,Monthly
+HM000942,57,Female,Trench Coat,Outerwear,142.55,Atlanta,XL,Red,Fall,3.3,No,Next Day,None,None,3,PayPal,Annually
+HM000943,36,Male,Backpack,Accessories,32.82,Houston,One Size,Brown,Fall,2.7,Yes,Express,25%,SUMMER20,8,Google Pay,Quarterly
+HM000944,27,Male,Running Shoes,Footwear,56.46,Houston,L,Pink,Spring,3.1,No,Express,30%,FLASH25,1,Debit Card,Rarely
+HM000945,27,Female,Hat,Accessories,30.53,Miami,One Size,Black,Spring,4.7,No,Next Day,30%,FLASH25,4,Debit Card,Annually
+HM000946,28,Female,Boots,Footwear,41.85,Portland,S,Black,Fall,1.5,No,Express,None,None,8,Credit Card,Quarterly
+HM000947,52,Male,Ankle Boots,Footwear,77.75,Boston,S,Navy,Spring,3.9,Yes,Standard,None,None,0,Debit Card,Rarely
+HM000948,21,Female,Running Shoes,Footwear,38.76,Atlanta,XS,Navy,Summer,3.6,Yes,Store Pickup,20%,FALL15,12,Gift Card,Monthly
+HM000949,30,Male,Dress Shirt,Clothing,20.92,Detroit,XL,Brown,Fall,4.0,No,Store Pickup,25%,SAVE30,6,Debit Card,Quarterly
+HM000950,32,Female,Hoodie,Clothing,58.00,San Diego,S,Beige,Winter,3.8,No,Store Pickup,None,None,10,Credit Card,Monthly
+HM000951,29,Male,Basic T-Shirt,Clothing,58.50,Denver,M,Yellow,Spring,3.5,Yes,Express,15%,SAVE30,6,Debit Card,Quarterly
+HM000952,65,Female,Bomber Jacket,Outerwear,97.18,Denver,S,Green,Summer,4.5,Yes,Express,30%,STUDENT10,19,Klarna,Bi-weekly
+HM000953,67,Male,Handbag,Accessories,46.66,Detroit,One Size,Navy,Spring,2.9,No,Standard,None,None,13,Credit Card,Monthly
+HM000954,26,Male,Cardigan,Clothing,53.02,Boston,S,Blue,Winter,3.7,Yes,Store Pickup,25%,FLASH25,22,PayPal,Weekly
+HM000955,33,Female,Heels,Footwear,70.50,Boston,XS,Black,Fall,4.9,Yes,Store Pickup,None,None,19,Credit Card,Bi-weekly
+HM000956,30,Male,Wallet,Accessories,31.71,Denver,One Size,Olive,Fall,4.7,No,Standard,None,None,3,PayPal,Annually
+HM000957,30,Female,Sandals,Footwear,89.22,Portland,XS,Cream,Winter,3.7,No,Express,None,None,8,Google Pay,Quarterly
+HM000958,37,Female,Cardigan,Clothing,36.00,Phoenix,XS,Red,Summer,4.0,No,Express,20%,WELCOME10,13,Google Pay,Monthly
+HM000959,35,Female,Winter Coat,Outerwear,134.02,Boston,L,Blue,Summer,3.8,No,Standard,10%,FALL15,13,PayPal,Monthly
+HM000960,53,Male,Parka,Outerwear,123.37,Denver,S,Red,Summer,1.4,No,Express,None,None,1,Apple Pay,Rarely
+HM000961,52,Male,Hat,Accessories,33.41,Dallas,One Size,Blue,Summer,4.4,Yes,Standard,None,None,18,Credit Card,Bi-weekly
+HM000962,46,Male,Bomber Jacket,Outerwear,132.70,San Diego,S,Yellow,Fall,4.0,Yes,Next Day,None,None,23,Gift Card,Weekly
+HM000963,58,Male,Sweater,Clothing,26.75,Jacksonville,XL,Cream,Summer,3.7,Yes,Standard,None,None,15,Apple Pay,Bi-weekly
+HM000964,40,Female,Puffer Jacket,Outerwear,128.13,Atlanta,S,White,Winter,2.8,No,Store Pickup,20%,STUDENT10,3,PayPal,Annually
+HM000965,42,Male,Trench Coat,Outerwear,86.51,Boston,M,Red,Summer,3.8,No,Express,None,None,14,Google Pay,Monthly
+HM000966,18,Female,Wallet,Accessories,18.01,Philadelphia,One Size,Beige,Fall,4.8,No,Next Day,30%,SUMMER20,7,Apple Pay,Quarterly
+HM000967,28,Male,Running Shoes,Footwear,64.56,San Jose,L,Purple,Winter,3.8,No,Store Pickup,None,None,4,Apple Pay,Annually
+HM000968,64,Female,Chinos,Clothing,53.36,Los Angeles,M,Pink,Winter,2.4,No,Store Pickup,20%,SAVE30,14,Debit Card,Monthly
+HM000969,51,Male,Hat,Accessories,22.26,Detroit,One Size,Yellow,Spring,4.8,No,Next Day,None,None,2,PayPal,Annually
+HM000970,65,Female,Sandals,Footwear,83.16,Detroit,XL,Red,Fall,1.3,No,Next Day,20%,SUMMER20,6,Google Pay,Quarterly
+HM000971,45,Male,Tank Top,Clothing,54.82,San Antonio,M,Brown,Fall,2.2,Yes,Express,20%,FREESHIP,13,Credit Card,Monthly
+HM000972,22,Male,Winter Coat,Outerwear,82.56,Detroit,XXL,Olive,Spring,1.8,No,Store Pickup,30%,STUDENT10,3,Google Pay,Annually
+HM000973,59,Male,Sandals,Footwear,65.18,Philadelphia,S,Burgundy,Summer,4.7,No,Store Pickup,25%,FLASH25,3,Debit Card,Annually
+HM000974,39,Female,Sneakers,Footwear,118.67,Detroit,XS,Cream,Spring,3.1,No,Store Pickup,None,None,13,PayPal,Monthly
+HM000975,19,Female,Bomber Jacket,Outerwear,68.34,Phoenix,S,Beige,Fall,4.4,No,Standard,None,None,8,PayPal,Quarterly
+HM000976,46,Male,Basic T-Shirt,Clothing,25.38,San Diego,L,Beige,Summer,4.2,No,Next Day,10%,SUMMER20,4,PayPal,Annually
+HM000977,44,Male,Watch,Accessories,15.78,Boston,One Size,Cream,Summer,1.6,No,Standard,None,None,5,Gift Card,Quarterly
+HM000978,47,Male,Denim Jacket,Outerwear,111.17,Atlanta,XXL,Cream,Spring,5.0,Yes,Standard,None,None,24,PayPal,Weekly
+HM000979,55,Female,Sneakers,Footwear,62.19,Jacksonville,M,Pink,Summer,3.5,No,Express,10%,MEMBER25,9,Gift Card,Quarterly
+HM000980,66,Male,Trench Coat,Outerwear,134.08,New York,XXL,Blue,Winter,2.9,No,Store Pickup,None,None,0,Google Pay,Rarely
+HM000981,59,Male,Heels,Footwear,75.64,San Diego,XXL,Cream,Spring,3.1,No,Express,30%,FLASH25,3,Klarna,Annually
+HM000982,54,Male,Handbag,Accessories,15.02,Miami,One Size,White,Fall,4.3,No,Standard,None,None,1,Credit Card,Rarely
+HM000983,22,Female,Denim Jacket,Outerwear,128.97,Jacksonville,L,Green,Winter,4.1,Yes,Next Day,20%,NEWYEAR15,6,Credit Card,Quarterly
+HM000984,60,Male,Polo Shirt,Clothing,36.29,Atlanta,M,Cream,Summer,4.4,Yes,Next Day,None,None,3,Google Pay,Annually
+HM000985,29,Male,Heels,Footwear,87.69,New York,L,Black,Spring,4.9,No,Next Day,10%,WELCOME10,7,Debit Card,Quarterly
+HM000986,53,Female,Flats,Footwear,117.15,Jacksonville,S,Beige,Fall,3.4,Yes,Next Day,None,None,4,Debit Card,Annually
+HM000987,60,Female,Bag,Accessories,27.30,Atlanta,One Size,Green,Summer,4.0,Yes,Standard,None,None,8,PayPal,Quarterly
+HM000988,30,Female,Scarf,Accessories,19.77,Atlanta,One Size,Brown,Summer,4.4,No,Standard,None,None,1,Klarna,Rarely
+HM000989,60,Female,Denim Jacket,Outerwear,107.02,Seattle,XS,Olive,Spring,3.1,No,Standard,20%,STUDENT10,2,PayPal,Annually
+HM000990,39,Male,Handbag,Accessories,18.77,Houston,One Size,Yellow,Winter,1.6,Yes,Store Pickup,20%,FREESHIP,21,Klarna,Weekly
+HM000991,60,Male,Hat,Accessories,12.32,New York,One Size,Olive,Winter,4.8,Yes,Next Day,25%,MEMBER25,4,Google Pay,Annually
+HM000992,42,Male,Cardigan,Clothing,57.84,Austin,L,Olive,Spring,3.7,Yes,Express,20%,STUDENT10,2,PayPal,Annually
+HM000993,25,Female,Flats,Footwear,60.41,Atlanta,XS,Gray,Fall,4.8,No,Express,25%,FLASH25,8,Debit Card,Quarterly
+HM000994,63,Male,Handbag,Accessories,34.60,Las Vegas,One Size,Blue,Summer,4.2,Yes,Next Day,30%,SUMMER20,13,Debit Card,Monthly
+HM000995,51,Male,Bomber Jacket,Outerwear,80.97,San Jose,XS,Pink,Winter,4.3,Yes,Express,25%,FREESHIP,5,Credit Card,Quarterly
+HM000996,39,Male,Sunglasses,Accessories,43.18,Phoenix,One Size,Green,Winter,4.5,No,Next Day,None,None,1,Credit Card,Rarely
+HM000997,53,Female,Backpack,Accessories,42.47,Denver,One Size,Brown,Fall,3.4,No,Express,10%,MEMBER25,5,Debit Card,Quarterly
+HM000998,37,Male,Handbag,Accessories,26.55,Los Angeles,One Size,Black,Winter,4.5,Yes,Next Day,None,None,21,Gift Card,Weekly
+HM000999,53,Male,Bomber Jacket,Outerwear,120.99,Seattle,XS,White,Spring,4.5,No,Next Day,None,None,7,PayPal,Quarterly
+HM001000,40,Male,Sandals,Footwear,51.39,Los Angeles,XXL,Navy,Summer,2.6,No,Standard,None,None,4,Klarna,Annually
