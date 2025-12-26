@@ -2,7 +2,7 @@
 
 ## 📘 Project Overview
 
-This project dives deep into **customer shopping behavior** using real-world transactional data from **3,900 purchases** across multiple product categories.
+This project dives deep into **customer shopping behavior** using real-world transactional data from **1000 purchases** across multiple product categories.
 The objective is to uncover actionable insights into **spending habits, customer segments, product preferences, and subscription behavior**, helping drive **data-informed business decisions** for H&M.
 
 ---
